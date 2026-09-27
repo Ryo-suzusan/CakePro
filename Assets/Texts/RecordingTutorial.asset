@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227e70ce9223c184d828c6a91b67f540, type: 3}
+  m_Name: RecordingTutorial
+  m_EditorClassIdentifier: Assembly-CSharp::MessageData
+  EventName: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u30E1\u30C3\u30BB\u30FC\u30B82\u500B\u76EE"
+  Messages:
+  - "\u30A4\u30A4\u611F\u3058\uFF01"
+  - "\u6B21\u306F\u3001\u3044\u3061\u3054\u3068\u306F\u5225\u306E\u30C8\u30C3\u30D4\u30F3\u30B0\u3082\u3057\u3066\u307F\u3066\u3088"
+  - "L/R\u30DC\u30BF\u30F3\u3092\u62BC\u3057\u3066\u3001\\n\u597D\u304D\u306A\u98DF\u3079\u7269\u306E\u540D\u524D\u3092\u3057\u3083\u3079\u3063\u3066\u307F\u3066\uFF01"
+  - "\u6483\u3064\u30C8\u30C3\u30D4\u30F3\u30B0\u306E\u7A2E\u985E\u3092\u5909\u3048\u3089\u308C\u308B\u3088"

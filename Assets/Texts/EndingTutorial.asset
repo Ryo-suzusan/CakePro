@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227e70ce9223c184d828c6a91b67f540, type: 3}
+  m_Name: EndingTutorial
+  m_EditorClassIdentifier: Assembly-CSharp::MessageData
+  EventName: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u30E1\u30C3\u30BB\u30FC\u30B83\u500B\u76EE"
+  Messages:
+  - "\u305D\u3046\u305D\u3046\uFF01\u30A6\u30DE\u3044\u306D\uFF01"
+  - "\u30DC\u30AF\u3001\u3082\u3046\u8179\u30DA\u30B3\u3060\u3088\\n\u65E9\u901F\u3001\u30B1\u30FC\u30AD\u4F5C\u308A\u3092\u59CB\u3081\u3088\u3046\uFF01"

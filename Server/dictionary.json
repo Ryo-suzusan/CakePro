@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "abalone",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "アワビ, あわび, 鮑, 海藻, 貝"
+  },
+  {
+    "id": 2,
+    "name": "abura_soba",
+    "tags": [ "Savory" ],
+    "description": "油そば, あぶらそば, 汁なしラーメン, まぜそば, 油蕎麦"
+  },
+  {
+    "id": 3,
+    "name": "acai_bowl",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "アサイーボウル, アサイー, アサイーボール, フルーツボウル"
+  },
+  {
+    "id": 4,
+    "name": "acai_bowl_berry",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ベリーアサイーボウル, ベリーアサイー, ミックスベリーアサイー"
+  },
+  {
+    "id": 5,
+    "name": "ackee",
+    "tags": [ "Fruit" ],
+    "description": "アキー, アキーフルーツ"
+  },
+  {
+    "id": 6,
+    "name": "ackee_and_saltfish",
+    "tags": [ "Savory" ],
+    "description": "アキー＆ソルトフィッシュ, アキーアンドソルトフィッシュ, ジャマイカ料理"
+  },
+  {
+    "id": 7,
+    "name": "adobo",
+    "tags": [ "Savory" ],
+    "description": "アドボ, フィリピン風角煮, 豚肉のアドボ"
+  },
+  {
+    "id": 8,
+    "name": "affogato",
+    "tags": [ "Sweet" ],
+    "description": "アフォガート, エスプレッソアイス, アフォガード"
+  },
+  {
+    "id": 9,
+    "name": "agedashi_tofu",
+    "tags": [ "Savory" ],
+    "description": "揚げ出し豆腐, 揚げ出し, あげだし豆腐"
+  },
+  {
+    "id": 10,
+    "name": "ajino_hiraki",
+    "tags": [ "Savory" ],
+    "description": "アジの開き, あじの開き, 鯵の開き, 干物"
+  },
+  {
+    "id": 11,
+    "name": "alfajores",
+    "tags": [ "Sweet" ],
+    "description": "アルファフォーレス, アルファホール, 南米クッキー"
+  },
+  {
+    "id": 12,
+    "name": "alfajores_cookie",
+    "tags": [ "Sweet" ],
+    "description": "アルファフォーレスクッキー, アルファホールクッキー"
+  },
+  {
+    "id": 13,
+    "name": "allspice_berries",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "オールスパイスベリー, オールスパイス, ジャマイカペッパー"
+  },
+  {
+    "id": 14,
+    "name": "almond",
+    "tags": [ "Savory" ],
+    "description": "アーモンド, あーもんど, ナッツ"
+  },
+  {
+    "id": 15,
+    "name": "aloo_gobi_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "アルーゴビボウル, アルゴビボウル, ジャガイモとカリフラワーのカレー"
+  },
+  {
+    "id": 16,
+    "name": "aloo_gobi_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "アルーゴビ, アルゴビ"
+  },
+  {
+    "id": 17,
+    "name": "amanattō",
+    "tags": [ "Sweet" ],
+    "description": "甘納豆, あまなっとう, 豆菓子"
+  },
+  {
+    "id": 18,
+    "name": "amaretti_cookies",
+    "tags": [ "Sweet" ],
+    "description": "アマレッティ, アマレッティクッキー, イタリアンクッキー"
+  },
+  {
+    "id": 19,
+    "name": "ambarella",
+    "tags": [ "Fruit" ],
+    "description": "アンバレラ, クンディ, タマゴノキ"
+  },
+  {
+    "id": 20,
+    "name": "anchovies",
+    "tags": [ "Savory" ],
+    "description": "アンチョビ, カタクチイワシ, 塩漬けイワシ"
+  },
+  {
+    "id": 21,
+    "name": "anise_seeds",
+    "tags": [ "Spicy", "Sweet" ],
+    "description": "アニスシード, アニス, 西洋茴香"
+  },
+  {
+    "id": 22,
+    "name": "anmitsu",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "あんみつ, 餡蜜, みつまめ, 和スイーツ"
+  },
+  {
+    "id": 23,
+    "name": "anmitsu_bowl",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "あんみつボウル, フルーツあんみつ"
+  },
+  {
+    "id": 24,
+    "name": "anpan",
+    "tags": [ "Sweet" ],
+    "description": "あんぱん, アンパン, あんパン, 餡パン"
+  },
+  {
+    "id": 25,
+    "name": "anzac_biscuit",
+    "tags": [ "Sweet" ],
+    "description": "アンザックビスケット, アンザッククッキー, オートミールクッキー"
+  },
+  {
+    "id": 26,
+    "name": "apple_crumble",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "アップルクランブル, リンゴのクランブル, 焼きリンゴのお菓子"
+  },
+  {
+    "id": 27,
+    "name": "apple_pie",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "アップルパイ, リンゴパイ, りんごパイ"
+  },
+  {
+    "id": 28,
+    "name": "apple_strudel",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "アップルシュトゥルーデル, アプフェルシュトゥルーデル, リンゴの包み焼き"
+  },
+  {
+    "id": 29,
+    "name": "apple_turnover",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "アップルターンオーバー, リンゴのパイ包み, 半月型アップルパイ"
+  },
+  {
+    "id": 30,
+    "name": "apricot",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "アプリコット, 杏, あんず, アンズ"
+  },
+  {
+    "id": 31,
+    "name": "arancini_ball",
+    "tags": [ "Savory" ],
+    "description": "アランチーニ, ライスコロッケ, ライスボール"
+  },
+  {
+    "id": 32,
+    "name": "arare",
+    "tags": [ "Savory" ],
+    "description": "あられ, アラレ, 米菓"
+  },
+  {
+    "id": 33,
+    "name": "arepa",
+    "tags": [ "Savory" ],
+    "description": "アレパ, コーンミールパン, 南米パン"
+  },
+  {
+    "id": 34,
+    "name": "arepa_with_cheese",
+    "tags": [ "Savory" ],
+    "description": "チーズアレパ, チーズ入りアレパ, アレパコンケソ"
+  },
+  {
+    "id": 35,
+    "name": "artichoke",
+    "tags": [ "Savory" ],
+    "description": "アーティチョーク, チョウセンアザミ"
+  },
+  {
+    "id": 36,
+    "name": "arugula",
+    "tags": [ "Savory" ],
+    "description": "ルッコラ, ロケット, キバナスズシロ"
+  },
+  {
+    "id": 37,
+    "name": "asari_no_sakamushi",
+    "tags": [ "Savory" ],
+    "description": "あさりの酒蒸し, アサリの酒蒸し, 浅蜊の酒蒸し"
+  },
+  {
+    "id": 38,
+    "name": "asian_pear",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "和梨, 梨, なし, ナシ"
+  },
+  {
+    "id": 39,
+    "name": "asparagus",
+    "tags": [ "Savory" ],
+    "description": "アスパラガス, アスパラ"
+  },
+  {
+    "id": 40,
+    "name": "avocado",
+    "tags": [ "Savory", "Fruit" ],
+    "description": "アボカド, アボガド, 森のバター"
+  },
+  {
+    "id": 41,
+    "name": "avocado_half",
+    "tags": [ "Savory", "Fruit" ],
+    "description": "ハーフアボカド, 半分のアボカド, 切ったアボカド"
+  },
+  {
+    "id": 42,
+    "name": "babaco",
+    "tags": [ "Fruit" ],
+    "description": "ババコ, マウンテンパパイヤ"
+  },
+  {
+    "id": 43,
+    "name": "baba_ghanoush",
+    "tags": [ "Savory" ],
+    "description": "ババガヌーシュ, ナスのディップ, ムタバル"
+  },
+  {
+    "id": 44,
+    "name": "baba_ghanoush_portion",
+    "tags": [ "Savory" ],
+    "description": "ババガヌーシュ(小鉢), ナスのペースト"
+  },
+  {
+    "id": 45,
+    "name": "baby_castella",
+    "tags": [ "Sweet" ],
+    "description": "ベビーカステラ, 鈴カステラ, お祭りカステラ"
+  },
+  {
+    "id": 46,
+    "name": "baby_corn",
+    "tags": [ "Savory" ],
+    "description": "ヤングコーン, ベビーコーン"
+  },
+  {
+    "id": 47,
+    "name": "bacon_strip",
+    "tags": [ "Savory" ],
+    "description": "ベーコン, ベーコンスライス, カリカリベーコン"
+  },
+  {
+    "id": 48,
+    "name": "bagel",
+    "tags": [ "Savory" ],
+    "description": "ベーグル, べーぐる, リングパン"
+  },
+  {
+    "id": 49,
+    "name": "bagel_sandwich",
+    "tags": [ "Savory" ],
+    "description": "ベーグルサンド, ベーグルサンドイッチ"
+  },
+  {
+    "id": 50,
+    "name": "bagel_with_schmear",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "クリームチーズベーグル, シュミアベーグル, ベーグルクリームチーズ"
+  },
+  {
+    "id": 51,
+    "name": "baguette",
+    "tags": [ "Savory" ],
+    "description": "バゲット, フランスパン, バケット"
+  },
+  {
+    "id": 52,
+    "name": "baked_alaska",
+    "tags": [ "Sweet" ],
+    "description": "ベイクドアラスカ, ノルウェー風オムレツ"
+  },
+  {
+    "id": 53,
+    "name": "baked_cheesecake",
+    "tags": [ "Sweet" ],
+    "description": "ベイクドチーズケーキ, 焼きチーズケーキ"
+  },
+  {
+    "id": 54,
+    "name": "baked_potato",
+    "tags": [ "Savory" ],
+    "description": "ベイクドポテト, じゃがバター, 焼き芋, 焼きじゃがいも"
+  },
+  {
+    "id": 55,
+    "name": "baked_ziti",
+    "tags": [ "Savory" ],
+    "description": "ベイクドジティ, ジティのオーブン焼き, マカロニグラタン風"
+  },
+  {
+    "id": 56,
+    "name": "baklava",
+    "tags": [ "Sweet" ],
+    "description": "バクラヴァ, バクラバ, 中東パイ"
+  },
+  {
+    "id": 57,
+    "name": "baklava_piece",
+    "tags": [ "Sweet" ],
+    "description": "バクラヴァ(1ピース), バクラバ(1切れ)"
+  },
+  {
+    "id": 58,
+    "name": "baklava_square",
+    "tags": [ "Sweet" ],
+    "description": "四角いバクラヴァ, スクエアバクラヴァ"
+  },
+  {
+    "id": 59,
+    "name": "balsamic_vinegar",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "バルサミコ酢, バルサミコ, 果実酢"
+  },
+  {
+    "id": 60,
+    "name": "bamboo_shoot",
+    "tags": [ "Savory" ],
+    "description": "たけのこ, タケノコ, 筍, 竹の子"
+  },
+  {
+    "id": 61,
+    "name": "banana",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "バナナ, ばなな, 甘蕉"
+  },
+  {
+    "id": 62,
+    "name": "banana_split",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "バナナスプリット, バナナパフェ, バナナアイス"
+  },
+  {
+    "id": 63,
+    "name": "bangers_and_mash",
+    "tags": [ "Savory" ],
+    "description": "バンガーズアンドマッシュ, ソーセージとマッシュポテト"
+  },
+  {
+    "id": 64,
+    "name": "banh_mi",
+    "tags": [ "Savory" ],
+    "description": "バインミー, ベトナムサンドイッチ"
+  },
+  {
+    "id": 65,
+    "name": "banh_mi_sandwich",
+    "tags": [ "Savory" ],
+    "description": "バインミーサンドイッチ, ベトナム風サンドイッチ"
+  },
+  {
+    "id": 66,
+    "name": "banoffee_pie",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "バノフィーパイ, バナナトフィーパイ"
+  },
+  {
+    "id": 67,
+    "name": "banoffee_pie_slice",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "カットバノフィーパイ, バノフィーパイ(1切れ)"
+  },
+  {
+    "id": 68,
+    "name": "barley",
+    "tags": [ "Savory" ],
+    "description": "大麦, おおむぎ, 麦"
+  },
+  {
+    "id": 69,
+    "name": "basque_cheesecake",
+    "tags": [ "Sweet" ],
+    "description": "バスクチーズケーキ, バスチー, 黒いチーズケーキ"
+  },
+  {
+    "id": 70,
+    "name": "baumkuchen",
+    "tags": [ "Sweet" ],
+    "description": "バウムクーヘン, バームクーヘン, 年輪ケーキ"
+  },
+  {
+    "id": 71,
+    "name": "baumkuchen_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットバウムクーヘン, バウムクーヘン(1切れ)"
+  },
+  {
+    "id": 72,
+    "name": "bavarois",
+    "tags": [ "Sweet" ],
+    "description": "ババロア, バヴァロワ, 洋生菓子"
+  },
+  {
+    "id": 73,
+    "name": "beaver_tail_pastry",
+    "tags": [ "Sweet" ],
+    "description": "ビーバーテイルズ, カナダ風揚げパン, ビーバーテール"
+  },
+  {
+    "id": 74,
+    "name": "beef_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビーフカレー, 牛肉のカレー, カレーライス"
+  },
+  {
+    "id": 75,
+    "name": "beef_jerky",
+    "tags": [ "Savory" ],
+    "description": "ビーフジャーキー, 干し肉, おつまみ肉"
+  },
+  {
+    "id": 76,
+    "name": "beef_noodle_bowl",
+    "tags": [ "Savory" ],
+    "description": "牛肉麺ボウル, 牛肉ラーメン"
+  },
+  {
+    "id": 77,
+    "name": "beef_noodle_soup",
+    "tags": [ "Savory" ],
+    "description": "牛肉麺, ニューローメン, 牛肉スープ麺"
+  },
+  {
+    "id": 78,
+    "name": "beef_stew",
+    "tags": [ "Savory" ],
+    "description": "ビーフシチュー, 牛肉の煮込み, 洋風シチュー"
+  },
+  {
+    "id": 79,
+    "name": "beef_stroganoff",
+    "tags": [ "Savory" ],
+    "description": "ビーフストロガノフ, 牛肉のサワークリーム煮"
+  },
+  {
+    "id": 80,
+    "name": "beetroot",
+    "tags": [ "Savory" ],
+    "description": "ビーツ, ビートルート, 赤カブ, 火焔菜"
+  },
+  {
+    "id": 81,
+    "name": "bell_pepper",
+    "tags": [ "Savory" ],
+    "description": "パプリカ, ピーマン, カラーピーマン"
+  },
+  {
+    "id": 82,
+    "name": "bibimbap",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビビンバ, ビビンパ, ピビンパ, 韓国風混ぜご飯"
+  },
+  {
+    "id": 83,
+    "name": "bibimbap_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "石焼ビビンバ, ビビンバボウル"
+  },
+  {
+    "id": 84,
+    "name": "bibimbap_bowl_mix",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "混ぜたビビンバ, ミックスビビンバ"
+  },
+  {
+    "id": 85,
+    "name": "bigos_stew",
+    "tags": [ "Savory" ],
+    "description": "ビゴス, ポーランド風煮込み, 狩人風シチュー"
+  },
+  {
+    "id": 86,
+    "name": "bilberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ビルベリー, 野生のブルーベリー"
+  },
+  {
+    "id": 87,
+    "name": "bilimbi",
+    "tags": [ "Fruit" ],
+    "description": "ビリンビ, ながばの五斂子, スターフルーツの仲間"
+  },
+  {
+    "id": 88,
+    "name": "biltong",
+    "tags": [ "Savory" ],
+    "description": "ビルトン, 南アフリカ風干し肉"
+  },
+  {
+    "id": 89,
+    "name": "biltong_strip",
+    "tags": [ "Savory" ],
+    "description": "ビルトンスライス, 細切りビルトン"
+  },
+  {
+    "id": 90,
+    "name": "bircher_muesli",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ミューズリー, ビルヒャーミューズリー, シリアル"
+  },
+  {
+    "id": 91,
+    "name": "bird_eye_chili",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "バーズアイ, タイ唐辛子, プリッキーヌ"
+  },
+  {
+    "id": 92,
+    "name": "birria_taco",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビリアタコス, 煮込み肉のタコス, メキシカンタコス"
+  },
+  {
+    "id": 93,
+    "name": "biryani",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビリヤニ, インド風炊き込みご飯, スパイスライス"
+  },
+  {
+    "id": 94,
+    "name": "biryani_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビリヤニボウル, どんぶりビリヤニ"
+  },
+  {
+    "id": 95,
+    "name": "biryani_rice_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ビリヤニライスボウル, ご飯ものビリヤニ"
+  },
+  {
+    "id": 96,
+    "name": "biscotti",
+    "tags": [ "Sweet" ],
+    "description": "ビスコッティ, カントゥッチ, イタリアの硬いビスケット"
+  },
+  {
+    "id": 97,
+    "name": "biscotti_piece",
+    "tags": [ "Sweet" ],
+    "description": "ビスコッティ(1切れ)"
+  },
+  {
+    "id": 98,
+    "name": "bitter_melon",
+    "tags": [ "Savory" ],
+    "description": "ゴーヤ, ニガウリ, 苦瓜"
+  },
+  {
+    "id": 99,
+    "name": "blackberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ブラックベリー, クロイチゴ"
+  },
+  {
+    "id": 100,
+    "name": "black_currant",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カシス, ブラックカラント, 黒すぐり"
+  },
+  {
+    "id": 101,
+    "name": "black_forest_cake",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ブラックフォレストケーキ, シュヴァルツヴェルダー・キルシュトルテ, 黒い森のケーキ"
+  },
+  {
+    "id": 102,
+    "name": "black_forest_cake_slice",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "カットブラックフォレストケーキ, 黒い森のケーキ(1切れ)"
+  },
+  {
+    "id": 103,
+    "name": "black_pepper",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "ブラックペッパー, 黒こしょう, 黒胡椒"
+  },
+  {
+    "id": 104,
+    "name": "black_pudding",
+    "tags": [ "Savory" ],
+    "description": "ブラックプディング, ブラッドソーセージ, 血のソーセージ"
+  },
+  {
+    "id": 105,
+    "name": "black_sapote",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ブラックサポテ, チョコレートプリンフルーツ"
+  },
+  {
+    "id": 106,
+    "name": "blood_orange",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ブラッドオレンジ, 赤いオレンジ"
+  },
+  {
+    "id": 107,
+    "name": "blood_sausage_slice",
+    "tags": [ "Savory" ],
+    "description": "ブラッドソーセージスライス, 血のソーセージ(1切れ)"
+  },
+  {
+    "id": 108,
+    "name": "blueberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ブルーベリー, ぶるーべりー, ベリー"
+  },
+  {
+    "id": 109,
+    "name": "blueberry_cheesecake",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ブルーベリーチーズケーキ, ベリーのチーズケーキ"
+  },
+  {
+    "id": 110,
+    "name": "boba_pearls",
+    "tags": [ "Sweet" ],
+    "description": "タピオカ, ボバ, タピオカパール"
+  },
+  {
+    "id": 111,
+    "name": "bobotie",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ボボティー, 南アフリカ風ミートローフ"
+  },
+  {
+    "id": 112,
+    "name": "bobotie_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ボボティー(1人前)"
+  },
+  {
+    "id": 113,
+    "name": "bok_choy",
+    "tags": [ "Savory" ],
+    "description": "チンゲン菜, 青梗菜, パクチョイ"
+  },
+  {
+    "id": 114,
+    "name": "bolognese_pasta",
+    "tags": [ "Savory" ],
+    "description": "ボロネーゼ, ミートソースパスタ, ボローニャ風パスタ"
+  },
+  {
+    "id": 115,
+    "name": "bonbon_chocolat",
+    "tags": [ "Sweet", "Luxury" ],
+    "description": "ボンボンショコラ, 一口チョコレート, 高級チョコ"
+  },
+  {
+    "id": 116,
+    "name": "borscht",
+    "tags": [ "Savory" ],
+    "description": "ボルシチ, ビーツのスープ, ロシア風スープ"
+  },
+  {
+    "id": 117,
+    "name": "borscht_bowl",
+    "tags": [ "Savory" ],
+    "description": "ボルシチボウル, どんぶりボルシチ"
+  },
+  {
+    "id": 118,
+    "name": "bouillabaisse",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ブイヤベース, 魚介スープ, 海鮮スープ"
+  },
+  {
+    "id": 119,
+    "name": "bouillabaisse_bowl",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ブイヤベースボウル, どんぶりブイヤベース"
+  },
+  {
+    "id": 120,
+    "name": "boysenberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ボイセンベリー, ボイズンベリー, キイチゴ"
+  },
+  {
+    "id": 121,
+    "name": "bratwurst",
+    "tags": [ "Savory" ],
+    "description": "ブラートヴルスト, ドイツソーセージ, 焼きソーセージ"
+  },
+  {
+    "id": 122,
+    "name": "breadfruit",
+    "tags": [ "Fruit", "Savory" ],
+    "description": "パンノキ, ブレッドフルーツ"
+  },
+  {
+    "id": 123,
+    "name": "bread_and_butter_pudding",
+    "tags": [ "Sweet" ],
+    "description": "パンプディング, ブレッドアンドバタープディング"
+  },
+  {
+    "id": 124,
+    "name": "bresaola_slice",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ブレザオラ, 牛肉の生ハム"
+  },
+  {
+    "id": 125,
+    "name": "brie_wheel_slice",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ブリードドモー, ブリーチーズ, 白カビチーズ"
+  },
+  {
+    "id": 126,
+    "name": "brigadeiro",
+    "tags": [ "Sweet" ],
+    "description": "ブリガデイロ, ブラジル風トリュフ"
+  },
+  {
+    "id": 127,
+    "name": "brigadeiro_chocolate",
+    "tags": [ "Sweet" ],
+    "description": "ブリガデイロチョコ, ブラジルチョコ"
+  },
+  {
+    "id": 128,
+    "name": "brioche",
+    "tags": [ "Sweet", "Savory" ],
+    "description": "ブリオッシュ, 甘いパン, フランスパンの一種"
+  },
+  {
+    "id": 129,
+    "name": "brioche_bun",
+    "tags": [ "Savory" ],
+    "description": "ブリオッシュバンズ, ハンバーガーバンズ"
+  },
+  {
+    "id": 130,
+    "name": "broccoli",
+    "tags": [ "Savory" ],
+    "description": "ブロッコリー, ぶろっこりー, 緑花椰菜"
+  },
+  {
+    "id": 131,
+    "name": "broccoli_floret",
+    "tags": [ "Savory" ],
+    "description": "ブロッコリーの房, カットブロッコリー"
+  },
+  {
+    "id": 132,
+    "name": "brownie",
+    "tags": [ "Sweet" ],
+    "description": "ブラウニー, チョコレートケーキ, 焼き菓子"
+  },
+  {
+    "id": 133,
+    "name": "brownie_bite",
+    "tags": [ "Sweet" ],
+    "description": "一口ブラウニー, ミニブラウニー"
+  },
+  {
+    "id": 134,
+    "name": "brownie_square",
+    "tags": [ "Sweet" ],
+    "description": "四角いブラウニー, スクエアブラウニー"
+  },
+  {
+    "id": 135,
+    "name": "brown_rice",
+    "tags": [ "Savory" ],
+    "description": "玄米, げんまい, ブラウンライス"
+  },
+  {
+    "id": 136,
+    "name": "bruschetta",
+    "tags": [ "Savory" ],
+    "description": "ブルスケッタ, ガーリックトースト, イタリアの前菜"
+  },
+  {
+    "id": 137,
+    "name": "brussels_sprouts",
+    "tags": [ "Savory" ],
+    "description": "芽キャベツ, メキャベツ, 子持甘藍"
+  },
+  {
+    "id": 138,
+    "name": "bubble_milk_tea",
+    "tags": [ "Sweet" ],
+    "description": "タピオカミルクティー, ボバティー, タピオカティー"
+  },
+  {
+    "id": 139,
+    "name": "buckwheat",
+    "tags": [ "Savory" ],
+    "description": "そばの実, 蕎麦の実, バックウィート"
+  },
+  {
+    "id": 140,
+    "name": "budino",
+    "tags": [ "Sweet" ],
+    "description": "ブディーノ, イタリアンプリン, イタリアンデザート"
+  },
+  {
+    "id": 141,
+    "name": "buffalo_wings",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バッファローウィング, スパイシーチキンウィング, 手羽先の唐揚げ"
+  },
+  {
+    "id": 142,
+    "name": "bulgogi",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "プルコギ, 韓国風焼き肉, 韓国風すき焼き"
+  },
+  {
+    "id": 143,
+    "name": "bulgogi_beef",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "プルコギビーフ, プルコギ肉"
+  },
+  {
+    "id": 144,
+    "name": "bulgogi_portion",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "プルコギ(1人前)"
+  },
+  {
+    "id": 145,
+    "name": "bunny_chow",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バニーチャウ, 南アフリカ風カレーパン, 食パンカレー"
+  },
+  {
+    "id": 146,
+    "name": "buri_daikon",
+    "tags": [ "Savory" ],
+    "description": "ぶり大根, ブリ大根, 鰤大根"
+  },
+  {
+    "id": 147,
+    "name": "burrata_cheese",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ブッラータチーズ, ブッラータ, フレッシュチーズ"
+  },
+  {
+    "id": 148,
+    "name": "burrito",
+    "tags": [ "Savory" ],
+    "description": "ブリトー, メキシカンラップ, トルティーヤ巻き"
+  },
+  {
+    "id": 149,
+    "name": "burrito_bowl",
+    "tags": [ "Savory" ],
+    "description": "ブリトーボウル, タコライス風"
+  },
+  {
+    "id": 150,
+    "name": "butter_chicken_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バターチキンカレーボウル, バターチキンボウル"
+  },
+  {
+    "id": 151,
+    "name": "butter_chicken_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バターチキンカレー, マイルドチキンカレー, ムルグマカニ"
+  },
+  {
+    "id": 152,
+    "name": "butter_chicken_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バターチキンカレー(1人前)"
+  },
+  {
+    "id": 153,
+    "name": "butter_cookie",
+    "tags": [ "Sweet" ],
+    "description": "バタークッキー, ショートブレッド, クッキー"
+  },
+  {
+    "id": 154,
+    "name": "butter_tart",
+    "tags": [ "Sweet" ],
+    "description": "バタータルト, カナダ風タルト, 甘いタルト"
+  },
+  {
+    "id": 155,
+    "name": "cabbage",
+    "tags": [ "Savory" ],
+    "description": "キャベツ, きゃべつ, 甘藍"
+  },
+  {
+    "id": 156,
+    "name": "cacio_e_pepe",
+    "tags": [ "Savory" ],
+    "description": "カチョエペペ, チーズと胡椒のパスタ, ローマ風パスタ"
+  },
+  {
+    "id": 157,
+    "name": "caesar_salad",
+    "tags": [ "Savory" ],
+    "description": "シーザーサラダ, ロメインレタスのサラダ, チーズサラダ"
+  },
+  {
+    "id": 158,
+    "name": "calamari_ring",
+    "tags": [ "Savory" ],
+    "description": "カラマリリング, イカリングフライ, イカフライ"
+  },
+  {
+    "id": 159,
+    "name": "california_roll",
+    "tags": [ "Savory" ],
+    "description": "カリフォルニアロール, 裏巻き寿司, アボカドロール"
+  },
+  {
+    "id": 160,
+    "name": "camembert",
+    "tags": [ "Savory" ],
+    "description": "カマンベールチーズ, カマンベール, 白カビチーズ"
+  },
+  {
+    "id": 161,
+    "name": "camembert_wedge",
+    "tags": [ "Savory" ],
+    "description": "カットカマンベール, カマンベール(1切れ)"
+  },
+  {
+    "id": 162,
+    "name": "candied_ginger_piece",
+    "tags": [ "Sweet", "Spicy" ],
+    "description": "生姜の砂糖漬け, ジンジャーキャンディ, クリスタルジンジャー"
+  },
+  {
+    "id": 163,
+    "name": "candied_orange_peel",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "オレンジピール, オレンジの砂糖漬け, オランジェット"
+  },
+  {
+    "id": 164,
+    "name": "candy_cane_stick",
+    "tags": [ "Sweet" ],
+    "description": "キャンディケイン, ステッキキャンディ, クリスマスキャンディ"
+  },
+  {
+    "id": 165,
+    "name": "candy_corn",
+    "tags": [ "Sweet" ],
+    "description": "キャンディコーン, ハロウィンキャンディ, 三角キャンディ"
+  },
+  {
+    "id": 166,
+    "name": "canele",
+    "tags": [ "Sweet" ],
+    "description": "カヌレ, カヌレ・ド・ボルドー, フランスの焼き菓子"
+  },
+  {
+    "id": 167,
+    "name": "canele_pastry",
+    "tags": [ "Sweet" ],
+    "description": "カヌレペストリー"
+  },
+  {
+    "id": 168,
+    "name": "canelé",
+    "tags": [ "Sweet" ],
+    "description": "カヌレ, カヌレ・ド・ボルドー"
+  },
+  {
+    "id": 169,
+    "name": "canistel",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カニステル, エッグフルーツ"
+  },
+  {
+    "id": 170,
+    "name": "cannoli",
+    "tags": [ "Sweet" ],
+    "description": "カンノーリ, カンノーロ, シチリア菓子"
+  },
+  {
+    "id": 171,
+    "name": "cannoli_siciliani",
+    "tags": [ "Sweet" ],
+    "description": "シチリア風カンノーリ"
+  },
+  {
+    "id": 172,
+    "name": "cantaloupe",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カンタロープ, 赤肉メロン, マスクメロン"
+  },
+  {
+    "id": 173,
+    "name": "cantucci",
+    "tags": [ "Sweet" ],
+    "description": "カントゥッチ, ビスコッティ, アーモンドクッキー"
+  },
+  {
+    "id": 174,
+    "name": "cappuccino_foam",
+    "tags": [ "Sweet", "Savory" ],
+    "description": "カプチーノの泡, ミルクフォーム"
+  },
+  {
+    "id": 175,
+    "name": "cappuccino_with_foam",
+    "tags": [ "Sweet", "Savory" ],
+    "description": "カプチーノ, 泡立ちコーヒー"
+  },
+  {
+    "id": 176,
+    "name": "caprese_salad",
+    "tags": [ "Savory" ],
+    "description": "カプレーゼ, トマトとモッツァレラのサラダ, イタリアンサラダ"
+  },
+  {
+    "id": 177,
+    "name": "carambola",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "スターフルーツ, ゴレンシ, 星型の果物"
+  },
+  {
+    "id": 178,
+    "name": "caramelized_hazelnut",
+    "tags": [ "Sweet" ],
+    "description": "キャラメリゼヘーゼルナッツ, 飴がけヘーゼルナッツ, プラリネ"
+  },
+  {
+    "id": 179,
+    "name": "caramel_popcorn",
+    "tags": [ "Sweet" ],
+    "description": "キャラメルポップコーン, 甘いポップコーン"
+  },
+  {
+    "id": 180,
+    "name": "caramel_sauce",
+    "tags": [ "Sweet" ],
+    "description": "キャラメルソース, カラメルソース"
+  },
+  {
+    "id": 181,
+    "name": "caraway_seeds",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "キャラウェイシード, ヒメウイキョウ, スパイス"
+  },
+  {
+    "id": 182,
+    "name": "carbonara",
+    "tags": [ "Savory" ],
+    "description": "カルボナーラ, 卵とベーコンのパスタ, クリームパスタ"
+  },
+  {
+    "id": 183,
+    "name": "cardamom_pods",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "カルダモン, 小豆蒄, スパイス"
+  },
+  {
+    "id": 184,
+    "name": "carrot",
+    "tags": [ "Savory" ],
+    "description": "ニンジン, にんじん, 人参, キャロット"
+  },
+  {
+    "id": 185,
+    "name": "carrot_cake_slice",
+    "tags": [ "Sweet" ],
+    "description": "キャロットケーキ, カットキャロットケーキ, 人参ケーキ"
+  },
+  {
+    "id": 186,
+    "name": "cashew_apple",
+    "tags": [ "Fruit" ],
+    "description": "カシューアップル, カシューナッツの果実"
+  },
+  {
+    "id": 187,
+    "name": "cashew_nut",
+    "tags": [ "Savory" ],
+    "description": "カシューナッツ, カシュー, ナッツ"
+  },
+  {
+    "id": 188,
+    "name": "cashew_whole",
+    "tags": [ "Savory" ],
+    "description": "殻付きカシューナッツ, カシューナッツ丸ごと"
+  },
+  {
+    "id": 189,
+    "name": "cassata",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "カッサータ, シチリア風アイスケーキ, リコッタチーズケーキ"
+  },
+  {
+    "id": 190,
+    "name": "cassata_siciliana",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "シチリア風カッサータ"
+  },
+  {
+    "id": 191,
+    "name": "cassata_slice",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "カットカッサータ, カッサータ(1切れ)"
+  },
+  {
+    "id": 192,
+    "name": "cassava_root",
+    "tags": [ "Savory" ],
+    "description": "キャッサバ, タピオカ芋, マニオク"
+  },
+  {
+    "id": 193,
+    "name": "castella_cake",
+    "tags": [ "Sweet" ],
+    "description": "カステラ, かすてら, 和製洋菓子"
+  },
+  {
+    "id": 194,
+    "name": "castella_cake_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットカステラ, カステラ(1切れ)"
+  },
+  {
+    "id": 195,
+    "name": "cauliflower",
+    "tags": [ "Savory" ],
+    "description": "カリフラワー, 花椰菜"
+  },
+  {
+    "id": 196,
+    "name": "caviar",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "キャビア, チョウザメの卵, 黒いダイヤ"
+  },
+  {
+    "id": 197,
+    "name": "celeriac",
+    "tags": [ "Savory" ],
+    "description": "根セロリ, セロリアック, カブラミツバ"
+  },
+  {
+    "id": 198,
+    "name": "celery",
+    "tags": [ "Savory" ],
+    "description": "セロリ, せろり, オランダミツバ"
+  },
+  {
+    "id": 199,
+    "name": "celery_seeds",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "セロリシード, セロリの種"
+  },
+  {
+    "id": 200,
+    "name": "cempedak",
+    "tags": [ "Fruit" ],
+    "description": "チェンペダック, コパラミツ, ジャックフルーツの仲間"
+  },
+  {
+    "id": 201,
+    "name": "ceviche",
+    "tags": [ "Savory" ],
+    "description": "セビーチェ, 魚介のマリネ, 中南米風マリネ"
+  },
+  {
+    "id": 202,
+    "name": "ceviche_portion",
+    "tags": [ "Savory" ],
+    "description": "セビーチェ(1人前)"
+  },
+  {
+    "id": 203,
+    "name": "challah_braid",
+    "tags": [ "Savory" ],
+    "description": "ハラー, ユダヤパン, 編みパン"
+  },
+  {
+    "id": 204,
+    "name": "chana_masala_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "チャナマサラボウル, ひよこ豆のカレー"
+  },
+  {
+    "id": 205,
+    "name": "chana_masala_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "チャナマサラ(1人前)"
+  },
+  {
+    "id": 206,
+    "name": "char_siu_bao",
+    "tags": [ "Savory" ],
+    "description": "チャーシューまん, 叉焼包, 肉まん"
+  },
+  {
+    "id": 207,
+    "name": "char_siu_bao_bun",
+    "tags": [ "Savory" ],
+    "description": "チャーシューバオ, 中華まん"
+  },
+  {
+    "id": 208,
+    "name": "chawanmushi",
+    "tags": [ "Savory" ],
+    "description": "茶碗蒸し, ちゃわんむし, 卵料理"
+  },
+  {
+    "id": 209,
+    "name": "cheddar_cheese",
+    "tags": [ "Savory" ],
+    "description": "チェダーチーズ, ハードチーズ, 黄色いチーズ"
+  },
+  {
+    "id": 210,
+    "name": "cheeseburger",
+    "tags": [ "Savory" ],
+    "description": "チーズバーガー, ハンバーガー"
+  },
+  {
+    "id": 211,
+    "name": "cheesecake_slice",
+    "tags": [ "Sweet" ],
+    "description": "チーズケーキ, カットチーズケーキ, ケーキ"
+  },
+  {
+    "id": 212,
+    "name": "cheese_dak-galbi",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "チーズタッカルビ, 韓国風鶏肉炒め"
+  },
+  {
+    "id": 213,
+    "name": "cheese_naan",
+    "tags": [ "Savory" ],
+    "description": "チーズナン, チーズ入りナン, インドパン"
+  },
+  {
+    "id": 214,
+    "name": "cheese_tart",
+    "tags": [ "Sweet" ],
+    "description": "チーズタルト, ベイクドチーズタルト, タルト"
+  },
+  {
+    "id": 215,
+    "name": "cheong_fun",
+    "tags": [ "Savory" ],
+    "description": "腸粉, チョンファン, 広東風点心"
+  },
+  {
+    "id": 216,
+    "name": "cheong_fun_roll",
+    "tags": [ "Savory" ],
+    "description": "腸粉ロール, ライスロール"
+  },
+  {
+    "id": 217,
+    "name": "cherimoya",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "チェリモヤ, 森のアイスクリーム"
+  },
+  {
+    "id": 218,
+    "name": "cherry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "さくらんぼ, サクランボ, チェリー, 桜桃"
+  },
+  {
+    "id": 219,
+    "name": "chestnut",
+    "tags": [ "Sweet" ],
+    "description": "栗, くり, クリ, マロン"
+  },
+  {
+    "id": 220,
+    "name": "chicken_rice_portion",
+    "tags": [ "Savory" ],
+    "description": "チキンライス, 鶏飯, シンガポールチキンライス"
+  },
+  {
+    "id": 221,
+    "name": "chijimi",
+    "tags": [ "Savory" ],
+    "description": "チヂミ, 韓国風お好み焼き, ジョン"
+  },
+  {
+    "id": 222,
+    "name": "chikuwa",
+    "tags": [ "Savory" ],
+    "description": "ちくわ, 竹輪, 練り物"
+  },
+  {
+    "id": 223,
+    "name": "chikuzenni",
+    "tags": [ "Savory" ],
+    "description": "筑前煮, がめ煮, 煮物"
+  },
+  {
+    "id": 224,
+    "name": "chilaquiles",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "チラキレス, トルティーヤのサルサ煮, メキシコ料理"
+  },
+  {
+    "id": 225,
+    "name": "chili_pepper",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "唐辛子, とうがらし, チリペッパー"
+  },
+  {
+    "id": 226,
+    "name": "chimichanga",
+    "tags": [ "Savory" ],
+    "description": "チミチャンガ, 揚げブリトー, テクス・メクス料理"
+  },
+  {
+    "id": 227,
+    "name": "chirashi_sushi",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ちらし寿司, 散らし寿司, 海鮮丼"
+  },
+  {
+    "id": 228,
+    "name": "chocolate_cake_slice",
+    "tags": [ "Sweet" ],
+    "description": "チョコレートケーキ, チョコケーキ, ケーキ"
+  },
+  {
+    "id": 229,
+    "name": "chocolate_chip_cookie",
+    "tags": [ "Sweet" ],
+    "description": "チョコチップクッキー, チョコクッキー, クッキー"
+  },
+  {
+    "id": 230,
+    "name": "chocolate_cigarette",
+    "tags": [ "Sweet" ],
+    "description": "シガレットチョコ, 巻きチョコ, チョコの飾り"
+  },
+  {
+    "id": 231,
+    "name": "chocolate_ganache_drip",
+    "tags": [ "Sweet" ],
+    "description": "ガナッシュドリップ, チョコソース, 溶かしチョコ"
+  },
+  {
+    "id": 232,
+    "name": "chocolate_muffin",
+    "tags": [ "Sweet" ],
+    "description": "チョコマフィン, チョコレートマフィン, カップケーキ"
+  },
+  {
+    "id": 233,
+    "name": "chocolate_parfait",
+    "tags": [ "Sweet" ],
+    "description": "チョコパフェ, チョコレートパフェ, サンデー"
+  },
+  {
+    "id": 234,
+    "name": "chocolate_spray",
+    "tags": [ "Sweet" ],
+    "description": "チョコスプレー, カラースプレー, トッピングチョコ"
+  },
+  {
+    "id": 235,
+    "name": "chocolate_vermicelli",
+    "tags": [ "Sweet" ],
+    "description": "チョコバーミセリ, チョコトッピング, チョコスプレー"
+  },
+  {
+    "id": 236,
+    "name": "chocorone",
+    "tags": [ "Sweet" ],
+    "description": "チョココロネ, チョコレートコロネ, 菓子パン"
+  },
+  {
+    "id": 237,
+    "name": "chorizo_link",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "チョリソー, スパイシーソーセージ"
+  },
+  {
+    "id": 238,
+    "name": "chow_mein",
+    "tags": [ "Savory" ],
+    "description": "チャオメン, 炒麺, 中華風焼きそば"
+  },
+  {
+    "id": 239,
+    "name": "chow_mein_bowl",
+    "tags": [ "Savory" ],
+    "description": "チャオメンボウル, 焼きそばボウル"
+  },
+  {
+    "id": 240,
+    "name": "churros",
+    "tags": [ "Sweet" ],
+    "description": "チュロス, チュロ, スペイン風揚げ菓子"
+  },
+  {
+    "id": 241,
+    "name": "churros_with_chocolate",
+    "tags": [ "Sweet" ],
+    "description": "チョコチュロス, チョコ付きチュロス"
+  },
+  {
+    "id": 242,
+    "name": "chuuka_don",
+    "tags": [ "Savory" ],
+    "description": "中華丼, ちゅうかどん, 八宝菜丼"
+  },
+  {
+    "id": 243,
+    "name": "ciabatta_loaf",
+    "tags": [ "Savory" ],
+    "description": "チャバタ, イタリアパン, スリッパパン"
+  },
+  {
+    "id": 244,
+    "name": "cinnamon",
+    "tags": [ "Sweet", "Spicy" ],
+    "description": "シナモン, 肉桂, ニッキ"
+  },
+  {
+    "id": 245,
+    "name": "cinnamon_powder",
+    "tags": [ "Sweet", "Spicy" ],
+    "description": "シナモンパウダー, 粉末シナモン"
+  },
+  {
+    "id": 246,
+    "name": "cinnamon_roll",
+    "tags": [ "Sweet" ],
+    "description": "シナモンロール, 菓子パン"
+  },
+  {
+    "id": 247,
+    "name": "cinnamon_roll_swirl",
+    "tags": [ "Sweet" ],
+    "description": "うずまきシナモンロール"
+  },
+  {
+    "id": 248,
+    "name": "cinnamon_stick_bundle",
+    "tags": [ "Sweet", "Spicy" ],
+    "description": "シナモンスティック, 棒状シナモン"
+  },
+  {
+    "id": 249,
+    "name": "clafoutis",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "クラフティ, フランスの伝統菓子, フルーツタルト"
+  },
+  {
+    "id": 250,
+    "name": "clams_in_shell",
+    "tags": [ "Savory" ],
+    "description": "殻付きアサリ, アサリ, はまぐり, 貝"
+  },
+  {
+    "id": 251,
+    "name": "clam_chowder",
+    "tags": [ "Savory" ],
+    "description": "クラムチャウダー, アサリのスープ, 白いスープ"
+  },
+  {
+    "id": 252,
+    "name": "clementine",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "クレメンティン, マンダリンオレンジ, 小型オレンジ"
+  },
+  {
+    "id": 253,
+    "name": "clotted_cream",
+    "tags": [ "Sweet", "Savory" ],
+    "description": "クロテッドクリーム, 濃厚クリーム, スコーン用クリーム"
+  },
+  {
+    "id": 254,
+    "name": "clotted_cream_scoop",
+    "tags": [ "Sweet", "Savory" ],
+    "description": "クロテッドクリーム(1すくい)"
+  },
+  {
+    "id": 255,
+    "name": "cloudberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "クラウドベリー, ホロムイイチゴ, 北欧ベリー"
+  },
+  {
+    "id": 256,
+    "name": "club_sandwich",
+    "tags": [ "Savory" ],
+    "description": "クラブサンドイッチ, クラブハウスサンド"
+  },
+  {
+    "id": 257,
+    "name": "cocktail_cherry_with_stem",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "枝付きチェリー, カクテルチェリー, マラスキーノチェリー"
+  },
+  {
+    "id": 258,
+    "name": "cocoa_powder",
+    "tags": [ "Sweet" ],
+    "description": "ココアパウダー, 粉末ココア, カカオパウダー"
+  },
+  {
+    "id": 259,
+    "name": "coconut",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ココナッツ, ヤシの実"
+  },
+  {
+    "id": 260,
+    "name": "cold_brew",
+    "tags": [ "Savory" ],
+    "description": "コールドブリュー, 水出しコーヒー, アイスコーヒー"
+  },
+  {
+    "id": 261,
+    "name": "cold_noodles_reimen",
+    "tags": [ "Savory" ],
+    "description": "冷麺, れいめん, 韓国冷麺"
+  },
+  {
+    "id": 262,
+    "name": "coleslaw",
+    "tags": [ "Savory" ],
+    "description": "コールスロー, キャベツサラダ"
+  },
+  {
+    "id": 263,
+    "name": "colomba_pasquale",
+    "tags": [ "Sweet" ],
+    "description": "コロンバ, 鳩型パン, イタリアの復活祭パン"
+  },
+  {
+    "id": 264,
+    "name": "continental_breakfast",
+    "tags": [ "Savory" ],
+    "description": "コンチネンタルブレックファスト, 洋食朝食"
+  },
+  {
+    "id": 265,
+    "name": "cookie_crumble",
+    "tags": [ "Sweet" ],
+    "description": "クッキークランブル, 砕いたクッキー, クッキーの粉"
+  },
+  {
+    "id": 266,
+    "name": "cookie_dough_chunk",
+    "tags": [ "Sweet" ],
+    "description": "クッキードウ, クッキー生地, 生のクッキー"
+  },
+  {
+    "id": 267,
+    "name": "coq_au_vin",
+    "tags": [ "Savory" ],
+    "description": "コック・オー・ヴァン, 鶏肉の赤ワイン煮, フランス料理"
+  },
+  {
+    "id": 268,
+    "name": "coq_au_vin_portion",
+    "tags": [ "Savory" ],
+    "description": "コック・オー・ヴァン(1人前)"
+  },
+  {
+    "id": 269,
+    "name": "coriander_seeds",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "コリアンダーシード, パクチーの種"
+  },
+  {
+    "id": 270,
+    "name": "corn",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "とうもろこし, トウモロコシ, コーン"
+  },
+  {
+    "id": 271,
+    "name": "cornbread",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "コーンブレッド, とうもろこしパン, アメリカ南部料理"
+  },
+  {
+    "id": 272,
+    "name": "corned_beef",
+    "tags": [ "Savory" ],
+    "description": "コンビーフ, 塩漬け牛肉, 缶詰肉"
+  },
+  {
+    "id": 273,
+    "name": "cornish_pasty",
+    "tags": [ "Savory" ],
+    "description": "コーニッシュパスティ, イギリス風ミートパイ"
+  },
+  {
+    "id": 274,
+    "name": "corn_on_the_cob",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "軸付きとうもろこし, 丸ごとコーン, 焼きとうもろこし"
+  },
+  {
+    "id": 275,
+    "name": "cotton_candy",
+    "tags": [ "Sweet" ],
+    "description": "わたあめ, 綿あめ, コットンキャンディ"
+  },
+  {
+    "id": 276,
+    "name": "couscous",
+    "tags": [ "Savory" ],
+    "description": "クスクス, 世界最小のパスタ, 北アフリカ料理"
+  },
+  {
+    "id": 277,
+    "name": "couscous_portion",
+    "tags": [ "Savory" ],
+    "description": "クスクス(1人前)"
+  },
+  {
+    "id": 278,
+    "name": "coxinha",
+    "tags": [ "Savory" ],
+    "description": "コシーニャ, ブラジル風コロッケ, 鶏肉のコロッケ"
+  },
+  {
+    "id": 279,
+    "name": "coxinha_pastry",
+    "tags": [ "Savory" ],
+    "description": "コシーニャペストリー"
+  },
+  {
+    "id": 280,
+    "name": "crab_claw",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "カニ爪, かにのハサミ, 蟹爪"
+  },
+  {
+    "id": 281,
+    "name": "cranberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "クランベリー, ツルコケモモ"
+  },
+  {
+    "id": 282,
+    "name": "cream_cheese_frosting",
+    "tags": [ "Sweet" ],
+    "description": "クリームチーズフロスティング, チーズアイシング"
+  },
+  {
+    "id": 283,
+    "name": "cream_pan",
+    "tags": [ "Sweet" ],
+    "description": "クリームパン, くりーむぱん, 菓子パン"
+  },
+  {
+    "id": 284,
+    "name": "crema_catalana",
+    "tags": [ "Sweet" ],
+    "description": "クレマ・カタラーナ, カタラーナ, スペイン風プリン"
+  },
+  {
+    "id": 285,
+    "name": "creme_brulee",
+    "tags": [ "Sweet" ],
+    "description": "クレームブリュレ, 焼きプリン, 焦がしプリン"
+  },
+  {
+    "id": 286,
+    "name": "crepe_suzette",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "クレープシュゼット, オレンジソースのクレープ"
+  },
+  {
+    "id": 287,
+    "name": "croissant",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "クロワッサン, 三日月パン"
+  },
+  {
+    "id": 288,
+    "name": "croissant_buttery",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "バタークロワッサン"
+  },
+  {
+    "id": 289,
+    "name": "croquetas",
+    "tags": [ "Savory" ],
+    "description": "クロケッタ, スペイン風コロッケ, クリームコロッケ"
+  },
+  {
+    "id": 290,
+    "name": "crumpet",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "クランペット, イギリス風パンケーキ, 穴あきパン"
+  },
+  {
+    "id": 291,
+    "name": "crushed_walnut",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "砕いたクルミ, クラッシュウォルナッツ, くるみ"
+  },
+  {
+    "id": 292,
+    "name": "crystallized_rose_petal",
+    "tags": [ "Sweet" ],
+    "description": "バラの花びらの砂糖漬け, クリスタルローズ"
+  },
+  {
+    "id": 293,
+    "name": "cucumber",
+    "tags": [ "Savory" ],
+    "description": "きゅうり, キュウリ, 胡瓜"
+  },
+  {
+    "id": 294,
+    "name": "cumin_seeds",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "クミンシード, 馬芹, スパイス"
+  },
+  {
+    "id": 295,
+    "name": "cupcake",
+    "tags": [ "Sweet" ],
+    "description": "カップケーキ, ミニケーキ"
+  },
+  {
+    "id": 296,
+    "name": "cupuaçu",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "クプアス, アマゾンのフルーツ, カカオの仲間"
+  },
+  {
+    "id": 297,
+    "name": "curry_fish_ball",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "カレーフィッシュボール, 咖喱魚蛋, 香港屋台料理"
+  },
+  {
+    "id": 298,
+    "name": "curry_fish_ball_skewer",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "串刺しカレーフィッシュボール"
+  },
+  {
+    "id": 299,
+    "name": "curry_udon",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "カレーうどん, カレー饂飩"
+  },
+  {
+    "id": 300,
+    "name": "custard_cream",
+    "tags": [ "Sweet" ],
+    "description": "カスタードクリーム, カスタード, クリーム"
+  },
+  {
+    "id": 301,
+    "name": "daifuku",
+    "tags": [ "Sweet" ],
+    "description": "大福, だいふく, 和菓子"
+  },
+  {
+    "id": 302,
+    "name": "daifuku_cake",
+    "tags": [ "Sweet" ],
+    "description": "大福ケーキ, もちケーキ"
+  },
+  {
+    "id": 303,
+    "name": "daifuku_mochi",
+    "tags": [ "Sweet" ],
+    "description": "大福餅, もち"
+  },
+  {
+    "id": 304,
+    "name": "dak-galbi",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "タッカルビ, ダッカルビ, 韓国風鶏肉炒め"
+  },
+  {
+    "id": 305,
+    "name": "dal_makhani",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ダルマカニ, クリーミーな豆カレー, インド料理"
+  },
+  {
+    "id": 306,
+    "name": "dal_makhani_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ダルマカニボウル"
+  },
+  {
+    "id": 307,
+    "name": "dal_makhani_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ダルマカニ(1人前)"
+  },
+  {
+    "id": 308,
+    "name": "damson",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "西洋スモモ, ダムソン, プラム"
+  },
+  {
+    "id": 309,
+    "name": "dango",
+    "tags": [ "Sweet" ],
+    "description": "団子, だんご, 和菓子"
+  },
+  {
+    "id": 310,
+    "name": "dango_stick",
+    "tags": [ "Sweet" ],
+    "description": "串団子, くしだんご"
+  },
+  {
+    "id": 311,
+    "name": "danish_pastry",
+    "tags": [ "Sweet" ],
+    "description": "デニッシュ, デニッシュペストリー, 菓子パン"
+  },
+  {
+    "id": 312,
+    "name": "danish_pastry_fruit",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツデニッシュ"
+  },
+  {
+    "id": 313,
+    "name": "dan_dan_noodles",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "担々麺, タンタンメン, だんだんめん"
+  },
+  {
+    "id": 314,
+    "name": "dan_dan_noodle_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "担々麺ボウル"
+  },
+  {
+    "id": 315,
+    "name": "dan_tat",
+    "tags": [ "Sweet" ],
+    "description": "エッグタルト, 蛋撻, 香港風エッグタルト"
+  },
+  {
+    "id": 316,
+    "name": "dark_chocolate_curls",
+    "tags": [ "Sweet" ],
+    "description": "削りチョコ, チョコレートカール, 飾りチョコ"
+  },
+  {
+    "id": 317,
+    "name": "date",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "デーツ, ナツメヤシ, ドライフルーツ"
+  },
+  {
+    "id": 318,
+    "name": "dehydrated_strawberry_slice",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ドライストロベリー, 乾燥いちご"
+  },
+  {
+    "id": 319,
+    "name": "dewberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "デューベリー, キイチゴの一種"
+  },
+  {
+    "id": 320,
+    "name": "dill_seeds",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ディルシード, イノンド, ハーブ"
+  },
+  {
+    "id": 321,
+    "name": "dim_sum_basket",
+    "tags": [ "Savory" ],
+    "description": "点心のせいろ, 蒸籠"
+  },
+  {
+    "id": 322,
+    "name": "dim_sum_dumpling",
+    "tags": [ "Savory" ],
+    "description": "点心, 飲茶, 蒸し餃子"
+  },
+  {
+    "id": 323,
+    "name": "dim_sum_steamer",
+    "tags": [ "Savory" ],
+    "description": "せいろ蒸し, 蒸し器"
+  },
+  {
+    "id": 324,
+    "name": "dorayaki",
+    "tags": [ "Sweet" ],
+    "description": "どら焼き, どらやき, 三笠"
+  },
+  {
+    "id": 325,
+    "name": "dorayaki_pancake",
+    "tags": [ "Sweet" ],
+    "description": "どら焼きの皮, パンケーキ"
+  },
+  {
+    "id": 326,
+    "name": "doro_wat",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ドロワット, エチオピア風チキンカレー"
+  },
+  {
+    "id": 327,
+    "name": "doro_wat_stew",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ドロワットシチュー"
+  },
+  {
+    "id": 328,
+    "name": "dotenabe",
+    "tags": [ "Savory" ],
+    "description": "土手鍋, 牡蠣の土手鍋, 味噌鍋"
+  },
+  {
+    "id": 329,
+    "name": "dragon_beard_candy",
+    "tags": [ "Sweet" ],
+    "description": "龍のひげ飴, クルタレ, 中華菓子"
+  },
+  {
+    "id": 330,
+    "name": "dragon_fruit",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ドラゴンフルーツ, ピタヤ, サボテンの実"
+  },
+  {
+    "id": 331,
+    "name": "dragon_fruit_cube",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カットドラゴンフルーツ, 角切りドラゴンフルーツ"
+  },
+  {
+    "id": 332,
+    "name": "dried_apricots",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ドライアプリコット, 干しあんず"
+  },
+  {
+    "id": 333,
+    "name": "dried_apricot_strip",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "細切りドライアプリコット"
+  },
+  {
+    "id": 334,
+    "name": "dried_cranberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ドライクランベリー, 乾燥クランベリー"
+  },
+  {
+    "id": 335,
+    "name": "dried_figs",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ドライフィグ, 干しいちじく, 乾燥イチジク"
+  },
+  {
+    "id": 336,
+    "name": "dry_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ドライカレー, キーマカレー, 汁なしカレー"
+  },
+  {
+    "id": 337,
+    "name": "dulce_de_leche",
+    "tags": [ "Sweet" ],
+    "description": "ドゥルセ・デ・レチェ, キャラメルソース, ミルクジャム"
+  },
+  {
+    "id": 338,
+    "name": "dulce_de_leche_portion",
+    "tags": [ "Sweet" ],
+    "description": "ドゥルセ・デ・レチェ(1人前)"
+  },
+  {
+    "id": 339,
+    "name": "durian",
+    "tags": [ "Fruit" ],
+    "description": "ドリアン, 果物の王様"
+  },
+  {
+    "id": 340,
+    "name": "ebi_fry",
+    "tags": [ "Savory" ],
+    "description": "エビフライ, 海老フライ, えびふらい"
+  },
+  {
+    "id": 341,
+    "name": "ebi_mayo",
+    "tags": [ "Savory" ],
+    "description": "エビマヨ, 海老マヨ, えびマヨ"
+  },
+  {
+    "id": 342,
+    "name": "eclair",
+    "tags": [ "Sweet" ],
+    "description": "エクレア, エクレール, シュー菓子"
+  },
+  {
+    "id": 343,
+    "name": "eclair_chocolate",
+    "tags": [ "Sweet" ],
+    "description": "チョコエクレア, チョコレートエクレア"
+  },
+  {
+    "id": 344,
+    "name": "edamame",
+    "tags": [ "Savory" ],
+    "description": "枝豆, えだまめ, おつまみ豆"
+  },
+  {
+    "id": 345,
+    "name": "edamame_portion",
+    "tags": [ "Savory" ],
+    "description": "枝豆(1人前)"
+  },
+  {
+    "id": 346,
+    "name": "edam_ball",
+    "tags": [ "Savory" ],
+    "description": "エダムチーズ, 赤玉チーズ, ハードチーズ"
+  },
+  {
+    "id": 347,
+    "name": "edible_flower",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "エディブルフラワー, 食用花, 飾り花"
+  },
+  {
+    "id": 348,
+    "name": "eggplant",
+    "tags": [ "Savory" ],
+    "description": "ナス, なす, 茄子"
+  },
+  {
+    "id": 349,
+    "name": "eggs_benedict",
+    "tags": [ "Savory" ],
+    "description": "エッグベネディクト, ポーチドエッグ, 朝食メニュー"
+  },
+  {
+    "id": 350,
+    "name": "eggs_florentine",
+    "tags": [ "Savory" ],
+    "description": "エッグフロランタン, ほうれん草のエッグベネディクト"
+  },
+  {
+    "id": 351,
+    "name": "eggs_royale",
+    "tags": [ "Savory" ],
+    "description": "エッグロワイヤル, サーモンのエッグベネディクト"
+  },
+  {
+    "id": 352,
+    "name": "eggs_sunny_side_up",
+    "tags": [ "Savory" ],
+    "description": "目玉焼き, サニーサイドアップ"
+  },
+  {
+    "id": 353,
+    "name": "egg_tart",
+    "tags": [ "Sweet" ],
+    "description": "エッグタルト, カスタードタルト, マカオ風タルト"
+  },
+  {
+    "id": 354,
+    "name": "egg_waffle",
+    "tags": [ "Sweet" ],
+    "description": "鶏蛋仔, ガイダンジャイ, 香港ワッフル, バブルワッフル"
+  },
+  {
+    "id": 355,
+    "name": "egg_waffle_bubble",
+    "tags": [ "Sweet" ],
+    "description": "バブルワッフル, エッグワッフル"
+  },
+  {
+    "id": 356,
+    "name": "egusi_soup",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "エグシスープ, ナイジェリアスープ, メロンスープ"
+  },
+  {
+    "id": 357,
+    "name": "elderberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "エルダーベリー, セイヨウニワトコ"
+  },
+  {
+    "id": 358,
+    "name": "elote_street_corn",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "エロテ, メキシカンストリートコーン, 焼きとうもろこし"
+  },
+  {
+    "id": 359,
+    "name": "emmental_cheese_wedge",
+    "tags": [ "Savory" ],
+    "description": "エメンタールチーズ, 穴あきチーズ, スイスチーズ"
+  },
+  {
+    "id": 360,
+    "name": "empanada",
+    "tags": [ "Savory" ],
+    "description": "エンパナーダ, 中南米のミートパイ, 揚げパイ"
+  },
+  {
+    "id": 361,
+    "name": "empanada_beef",
+    "tags": [ "Savory" ],
+    "description": "ビーフエンパナーダ, 肉入りエンパナーダ"
+  },
+  {
+    "id": 362,
+    "name": "enchilada",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "エンチラーダ, トルティーヤのオーブン焼き, メキシコ料理"
+  },
+  {
+    "id": 363,
+    "name": "endive",
+    "tags": [ "Savory" ],
+    "description": "アンディーブ, チコリー, キクヂシャ"
+  },
+  {
+    "id": 364,
+    "name": "english_muffin",
+    "tags": [ "Savory" ],
+    "description": "イングリッシュマフィン, 朝食用パン"
+  },
+  {
+    "id": 365,
+    "name": "enoki",
+    "tags": [ "Savory" ],
+    "description": "えのき, エノキタケ, 榎茸"
+  },
+  {
+    "id": 366,
+    "name": "escargot",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "エスカルゴ, カタツムリ料理, フランス料理"
+  },
+  {
+    "id": 367,
+    "name": "escargot_in_shell",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "殻付きエスカルゴ"
+  },
+  {
+    "id": 368,
+    "name": "espresso_bean",
+    "tags": [ "Savory" ],
+    "description": "コーヒー豆, エスプレッソ豆, 焙煎豆"
+  },
+  {
+    "id": 369,
+    "name": "espresso_shot",
+    "tags": [ "Savory" ],
+    "description": "エスプレッソ, 濃縮コーヒー, ショートコーヒー"
+  },
+  {
+    "id": 370,
+    "name": "eton_mess",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "イートン・メス, メレンゲと苺のデザート, イギリス菓子"
+  },
+  {
+    "id": 371,
+    "name": "fajita_sizzler",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ファヒータ, メキシカン鉄板焼き, トルティーヤの具"
+  },
+  {
+    "id": 372,
+    "name": "falafel",
+    "tags": [ "Savory" ],
+    "description": "ファラフェル, ひよこ豆のコロッケ, 中東料理"
+  },
+  {
+    "id": 373,
+    "name": "falafel_ball",
+    "tags": [ "Savory" ],
+    "description": "ファラフェルボール"
+  },
+  {
+    "id": 374,
+    "name": "farinata",
+    "tags": [ "Savory" ],
+    "description": "ファリナータ, ひよこ豆のパンケーキ, イタリアのクレープ"
+  },
+  {
+    "id": 375,
+    "name": "feijoa",
+    "tags": [ "Fruit" ],
+    "description": "フェイジョア, パイナップルグアバ"
+  },
+  {
+    "id": 376,
+    "name": "feijoada",
+    "tags": [ "Savory" ],
+    "description": "フェイジョアーダ, 豆と肉の煮込み, ブラジル料理"
+  },
+  {
+    "id": 377,
+    "name": "feijoada_stew",
+    "tags": [ "Savory" ],
+    "description": "フェイジョアーダシチュー"
+  },
+  {
+    "id": 378,
+    "name": "fennel_bulb",
+    "tags": [ "Savory" ],
+    "description": "フェンネル, ウイキョウ, フィノッキオ"
+  },
+  {
+    "id": 379,
+    "name": "fennel_seeds",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "フェンネルシード, ウイキョウの種"
+  },
+  {
+    "id": 380,
+    "name": "fenugreek_seeds",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "フェヌグリーク, コロハ, メティ"
+  },
+  {
+    "id": 381,
+    "name": "fettuccine",
+    "tags": [ "Savory" ],
+    "description": "フェットチーネ, 平打ちパスタ, フィットチーネ"
+  },
+  {
+    "id": 382,
+    "name": "fettuccine_alfredo",
+    "tags": [ "Savory" ],
+    "description": "フェットチーネ・アルフレード, チーズクリームパスタ"
+  },
+  {
+    "id": 383,
+    "name": "fig",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "イチジク, いちじく, 無花果, フィグ"
+  },
+  {
+    "id": 384,
+    "name": "fig_quarter",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カットイチジク, 1/4イチジク"
+  },
+  {
+    "id": 385,
+    "name": "fig_slice",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "スライスイチジク"
+  },
+  {
+    "id": 386,
+    "name": "financier",
+    "tags": [ "Sweet" ],
+    "description": "フィナンシェ, アーモンドケーキ, 焼き菓子"
+  },
+  {
+    "id": 387,
+    "name": "financier_cake",
+    "tags": [ "Sweet" ],
+    "description": "フィナンシェケーキ"
+  },
+  {
+    "id": 388,
+    "name": "finger_lime",
+    "tags": [ "Fruit" ],
+    "description": "フィンガーライム, キャビアライム"
+  },
+  {
+    "id": 389,
+    "name": "fish_and_chips",
+    "tags": [ "Savory" ],
+    "description": "フィッシュアンドチップス, 白身魚のフライ, イギリス料理"
+  },
+  {
+    "id": 390,
+    "name": "fish_and_chips_portion",
+    "tags": [ "Savory" ],
+    "description": "フィッシュアンドチップス(1人前)"
+  },
+  {
+    "id": 391,
+    "name": "flat_white",
+    "tags": [ "Savory" ],
+    "description": "フラットホワイト, カフェラテの一種, エスプレッソドリンク"
+  },
+  {
+    "id": 392,
+    "name": "flat_white_art",
+    "tags": [ "Savory" ],
+    "description": "ラテアート"
+  },
+  {
+    "id": 393,
+    "name": "florentine_cookie",
+    "tags": [ "Sweet" ],
+    "description": "フロランタン, アーモンドキャラメルクッキー, 焼き菓子"
+  },
+  {
+    "id": 394,
+    "name": "focaccia",
+    "tags": [ "Savory" ],
+    "description": "フォカッチャ, イタリアの平焼きパン"
+  },
+  {
+    "id": 395,
+    "name": "focaccia_barese",
+    "tags": [ "Savory" ],
+    "description": "プーリア風フォカッチャ, トマトフォカッチャ"
+  },
+  {
+    "id": 396,
+    "name": "focaccia_di_recco",
+    "tags": [ "Savory" ],
+    "description": "レッコ風フォカッチャ, チーズフォカッチャ"
+  },
+  {
+    "id": 397,
+    "name": "focaccia_slab",
+    "tags": [ "Savory" ],
+    "description": "大きなフォカッチャ, フォカッチャの塊"
+  },
+  {
+    "id": 398,
+    "name": "focaccia_slice",
+    "tags": [ "Savory" ],
+    "description": "カットフォカッチャ, フォカッチャ(1切れ)"
+  },
+  {
+    "id": 399,
+    "name": "foie_gras",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "フォアグラ, ガチョウの肝臓, 世界三大珍味"
+  },
+  {
+    "id": 400,
+    "name": "foie_gras_slice",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "フォアグラスライス"
+  },
+  {
+    "id": 401,
+    "name": "fondant_rose",
+    "tags": [ "Sweet" ],
+    "description": "フォンダンローズ, マジパンのバラ, 砂糖細工の花"
+  },
+  {
+    "id": 402,
+    "name": "freeze-dried_raspberry_crumble",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フリーズドライラズベリー, ラズベリークランチ, 乾燥木苺"
+  },
+  {
+    "id": 403,
+    "name": "french_fries",
+    "tags": [ "Savory" ],
+    "description": "フライドポテト, フレンチフライ, ポテトフライ"
+  },
+  {
+    "id": 404,
+    "name": "french_toast",
+    "tags": [ "Sweet" ],
+    "description": "フレンチトースト, パンペルデュ, 卵焼きパン"
+  },
+  {
+    "id": 405,
+    "name": "fresh_mint_sprig",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ミントの葉, 生ミント, ハーブの飾り"
+  },
+  {
+    "id": 406,
+    "name": "fresh_strawberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "生いちご, フレッシュストロベリー, 苺"
+  },
+  {
+    "id": 407,
+    "name": "fried_chicken_drumstick",
+    "tags": [ "Savory" ],
+    "description": "フライドチキン, 骨付き唐揚げ, 鶏肉の唐揚げ"
+  },
+  {
+    "id": 408,
+    "name": "fried_egg",
+    "tags": [ "Savory" ],
+    "description": "目玉焼き, フライドエッグ, 卵焼き"
+  },
+  {
+    "id": 409,
+    "name": "fried_oysters",
+    "tags": [ "Savory" ],
+    "description": "カキフライ, 牡蠣フライ, かきふらい"
+  },
+  {
+    "id": 410,
+    "name": "fried_rice_bowl",
+    "tags": [ "Savory" ],
+    "description": "チャーハン, 炒飯, 焼き飯, どんぶりチャーハン"
+  },
+  {
+    "id": 411,
+    "name": "frozen_yogurt",
+    "tags": [ "Sweet" ],
+    "description": "フローズンヨーグルト, ヨーグルトアイス, フロヨ"
+  },
+  {
+    "id": 412,
+    "name": "fruit_crepe",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツクレープ, デザートクレープ"
+  },
+  {
+    "id": 413,
+    "name": "fruit_jam",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツジャム, ジャム, コンフィチュール"
+  },
+  {
+    "id": 414,
+    "name": "fruit_parfait",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツパフェ, サンデー, パフェ"
+  },
+  {
+    "id": 415,
+    "name": "fruit_sandwich",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツサンド, フルーツサンドイッチ, デザートサンド"
+  },
+  {
+    "id": 416,
+    "name": "fruit_smoothie",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "フルーツスムージー, ミックスジュース, スムージー"
+  },
+  {
+    "id": 417,
+    "name": "fufu",
+    "tags": [ "Savory" ],
+    "description": "フフ, アフリカの主食, キャッサバ餅"
+  },
+  {
+    "id": 418,
+    "name": "fufu_portion",
+    "tags": [ "Savory" ],
+    "description": "フフ(1人前)"
+  },
+  {
+    "id": 419,
+    "name": "full_english_breakfast",
+    "tags": [ "Savory" ],
+    "description": "イングリッシュブレックファスト, イギリスの朝食, フルブレックファスト"
+  },
+  {
+    "id": 420,
+    "name": "funnel_cake",
+    "tags": [ "Sweet" ],
+    "description": "ファンネルケーキ, アメリカの揚げ菓子, お祭りスイーツ"
+  },
+  {
+    "id": 421,
+    "name": "fusilli",
+    "tags": [ "Savory" ],
+    "description": "フジッリ, ショートパスタ, らせん状パスタ"
+  },
+  {
+    "id": 422,
+    "name": "gac_fruit",
+    "tags": [ "Fruit" ],
+    "description": "ガックフルーツ, ナンバンカラスウリ, 天国からの果実"
+  },
+  {
+    "id": 423,
+    "name": "gado_gado",
+    "tags": [ "Savory" ],
+    "description": "ガドガド, インドネシア風温野菜サラダ, ピーナッツソースサラダ"
+  },
+  {
+    "id": 424,
+    "name": "gado_gado_portion",
+    "tags": [ "Savory" ],
+    "description": "ガドガド(1人前)"
+  },
+  {
+    "id": 425,
+    "name": "gado_gado_salad",
+    "tags": [ "Savory" ],
+    "description": "ガドガドサラダ"
+  },
+  {
+    "id": 426,
+    "name": "galbi_rib",
+    "tags": [ "Savory" ],
+    "description": "カルビ, 骨付きカルビ, 韓国焼肉"
+  },
+  {
+    "id": 427,
+    "name": "galette",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ガレット, そば粉のクレープ, フランス料理"
+  },
+  {
+    "id": 428,
+    "name": "galette_des_rois",
+    "tags": [ "Sweet" ],
+    "description": "ガレット・デ・ロワ, 王様のケーキ, アーモンドパイ"
+  },
+  {
+    "id": 429,
+    "name": "galette_des_rois_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットガレットデロワ"
+  },
+  {
+    "id": 430,
+    "name": "gambas_al_ajillo",
+    "tags": [ "Savory" ],
+    "description": "アヒージョ, エビのアヒージョ, スペインのオイル煮"
+  },
+  {
+    "id": 431,
+    "name": "ganmodoki",
+    "tags": [ "Savory" ],
+    "description": "がんもどき, 飛竜頭, おでんの具"
+  },
+  {
+    "id": 432,
+    "name": "garlic",
+    "tags": [ "Savory" ],
+    "description": "ニンニク, にんにく, ガーリック, 大蒜"
+  },
+  {
+    "id": 433,
+    "name": "garlic_bread",
+    "tags": [ "Savory" ],
+    "description": "ガーリックトースト, ガーリックフランス"
+  },
+  {
+    "id": 434,
+    "name": "garlic_shrimp",
+    "tags": [ "Savory" ],
+    "description": "ガーリックシュリンプ, エビのニンニク炒め, ハワイ料理"
+  },
+  {
+    "id": 435,
+    "name": "gazpacho",
+    "tags": [ "Savory" ],
+    "description": "ガスパチョ, 冷製トマトスープ, スペインスープ"
+  },
+  {
+    "id": 436,
+    "name": "gazpacho_bowl",
+    "tags": [ "Savory" ],
+    "description": "ガスパチョボウル"
+  },
+  {
+    "id": 437,
+    "name": "gelato",
+    "tags": [ "Sweet" ],
+    "description": "ジェラート, イタリアンアイスクリーム, アイス"
+  },
+  {
+    "id": 438,
+    "name": "gelato_scoop",
+    "tags": [ "Sweet" ],
+    "description": "ジェラート(1すくい)"
+  },
+  {
+    "id": 439,
+    "name": "ghost_pepper",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ブート・ジョロキア, ゴーストペッパー, 激辛唐辛子"
+  },
+  {
+    "id": 440,
+    "name": "ginger",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "生姜, しょうが, ジンジャー, ショウガ"
+  },
+  {
+    "id": 441,
+    "name": "gingerbread_man",
+    "tags": [ "Sweet" ],
+    "description": "ジンジャーブレッドマン, 生姜クッキー, 人型クッキー"
+  },
+  {
+    "id": 442,
+    "name": "ginger_ale",
+    "tags": [ "Sweet" ],
+    "description": "ジンジャーエール, 生姜炭酸飲料"
+  },
+  {
+    "id": 443,
+    "name": "ginger_root",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "根生姜, ショウガの根"
+  },
+  {
+    "id": 444,
+    "name": "glace_cherry",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ドレンチェリー, 砂糖漬けチェリー, 飾り用チェリー"
+  },
+  {
+    "id": 445,
+    "name": "glazed_donut",
+    "tags": [ "Sweet" ],
+    "description": "グレーズドドーナツ, シュガードーナツ, リングドーナツ"
+  },
+  {
+    "id": 446,
+    "name": "gnocchi",
+    "tags": [ "Savory" ],
+    "description": "ニョッキ, じゃがいものパスタ, イタリアの団子"
+  },
+  {
+    "id": 447,
+    "name": "gnocchi_portion",
+    "tags": [ "Savory" ],
+    "description": "ニョッキ(1人前)"
+  },
+  {
+    "id": 448,
+    "name": "gnocchi_sorrentina",
+    "tags": [ "Savory" ],
+    "description": "ソレント風ニョッキ, トマトとモッツァレラのニョッキ"
+  },
+  {
+    "id": 449,
+    "name": "goji_berry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "クコの実, ゴジベリー, 枸杞子"
+  },
+  {
+    "id": 450,
+    "name": "golabki",
+    "tags": [ "Savory" ],
+    "description": "ゴウォンプキ, ポーランド風ロールキャベツ, ロールキャベツ"
+  },
+  {
+    "id": 451,
+    "name": "gold_dust",
+    "tags": [ "Luxury" ],
+    "description": "金粉, 金箔パウダー, 食用金粉"
+  },
+  {
+    "id": 452,
+    "name": "gold_leaf",
+    "tags": [ "Luxury" ],
+    "description": "金箔, 食用金箔, 飾り用金箔"
+  },
+  {
+    "id": 453,
+    "name": "gooseberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "グーズベリー, セイヨウスグリ"
+  },
+  {
+    "id": 454,
+    "name": "gorgonzola",
+    "tags": [ "Savory" ],
+    "description": "ゴルゴンゾーラ, ブルーチーズ, 青カビチーズ"
+  },
+  {
+    "id": 455,
+    "name": "gorgonzola_wedge",
+    "tags": [ "Savory" ],
+    "description": "カットゴルゴンゾーラ, ゴルゴンゾーラ(1切れ)"
+  },
+  {
+    "id": 456,
+    "name": "gouda_wheel",
+    "tags": [ "Savory" ],
+    "description": "ゴーダチーズ, 丸ごとチーズ, オランダチーズ"
+  },
+  {
+    "id": 457,
+    "name": "goulash",
+    "tags": [ "Savory" ],
+    "description": "グヤーシュ, ハンガリー風シチュー, 牛肉のパプリカ煮"
+  },
+  {
+    "id": 458,
+    "name": "goya_chanpuru",
+    "tags": [ "Savory" ],
+    "description": "ゴーヤチャンプルー, 沖縄の炒め物, 苦瓜炒め"
+  },
+  {
+    "id": 459,
+    "name": "granita_with_brioche",
+    "tags": [ "Sweet" ],
+    "description": "グラニータとブリオッシュ, シチリアの朝食, 氷菓"
+  },
+  {
+    "id": 460,
+    "name": "granola_with_yogurt",
+    "tags": [ "Sweet" ],
+    "description": "グラノーラヨーグルト, シリアルヨーグルト"
+  },
+  {
+    "id": 461,
+    "name": "granola_yogurt_bowl",
+    "tags": [ "Sweet" ],
+    "description": "グラノーラボウル, ヨーグルトボウル"
+  },
+  {
+    "id": 462,
+    "name": "grape",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ぶどう, ブドウ, 葡萄, グレープ"
+  },
+  {
+    "id": 463,
+    "name": "grapefruit",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "グレープフルーツ, ぐれーぷふるーつ, 柑橘類"
+  },
+  {
+    "id": 464,
+    "name": "greek_salad",
+    "tags": [ "Savory" ],
+    "description": "グリークサラダ, ギリシャ風サラダ, フェタチーズサラダ"
+  },
+  {
+    "id": 465,
+    "name": "greek_salad_portion",
+    "tags": [ "Savory" ],
+    "description": "グリークサラダ(1人前)"
+  },
+  {
+    "id": 466,
+    "name": "green_beans",
+    "tags": [ "Savory" ],
+    "description": "インゲン豆, さやいんげん, グリーンピース"
+  },
+  {
+    "id": 467,
+    "name": "green_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "グリーンカレー, ゲーンキョウワーン, タイカレー"
+  },
+  {
+    "id": 468,
+    "name": "green_curry_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "グリーンカレーボウル"
+  },
+  {
+    "id": 469,
+    "name": "green_juice",
+    "tags": [ "Savory" ],
+    "description": "青汁, グリーンスムージー, 野菜ジュース"
+  },
+  {
+    "id": 470,
+    "name": "green_peppercorns",
+    "tags": [ "Spicy", "Savory" ],
+    "description": "グリーンペッパー, 青胡椒"
+  },
+  {
+    "id": 471,
+    "name": "green_tea_cup",
+    "tags": [ "Savory" ],
+    "description": "緑茶, 日本茶, お茶, 煎茶"
+  },
+  {
+    "id": 472,
+    "name": "grilled_salmon",
+    "tags": [ "Savory" ],
+    "description": "焼き鮭, 鮭の塩焼き, グリルサーモン"
+  },
+  {
+    "id": 473,
+    "name": "guacamole_dip",
+    "tags": [ "Savory" ],
+    "description": "ワカモレ, アボカドディップ, メキシカンディップ"
+  },
+  {
+    "id": 474,
+    "name": "guanciale",
+    "tags": [ "Savory" ],
+    "description": "グアンチャーレ, 豚頬肉の塩漬け, イタリアンベーコン"
+  },
+  {
+    "id": 475,
+    "name": "guava",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "グアバ, グァバ, バンジロウ"
+  },
+  {
+    "id": 476,
+    "name": "guavaberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "グアバベリー, ルンベリー"
+  },
+  {
+    "id": 477,
+    "name": "gugelhupf",
+    "tags": [ "Sweet" ],
+    "description": "クグロフ, オーストリアの菓子パン, 王冠型ケーキ"
+  },
+  {
+    "id": 478,
+    "name": "gulab_jamun",
+    "tags": [ "Sweet" ],
+    "description": "グラブジャムン, 世界一甘いお菓子, インドのシロップ漬けドーナツ"
+  },
+  {
+    "id": 479,
+    "name": "gulab_jamun_ball",
+    "tags": [ "Sweet" ],
+    "description": "グラブジャムン(1個)"
+  },
+  {
+    "id": 480,
+    "name": "gulab_jamun_bowl",
+    "tags": [ "Sweet" ],
+    "description": "グラブジャムンボウル"
+  },
+  {
+    "id": 481,
+    "name": "gumbo",
+    "tags": [ "Savory" ],
+    "description": "ガンボ, アメリカ南部のシチュー, オクラのスープ"
+  },
+  {
+    "id": 482,
+    "name": "gummy_bear",
+    "tags": [ "Sweet" ],
+    "description": "グミベア, クマのグミ, ハリボー風グミ"
+  },
+  {
+    "id": 483,
+    "name": "gumpaste_butterfly",
+    "tags": [ "Sweet" ],
+    "description": "シュガーバタフライ, マジパンの蝶, 砂糖細工の蝶"
+  },
+  {
+    "id": 484,
+    "name": "gyoza",
+    "tags": [ "Savory" ],
+    "description": "餃子, ぎょうざ, ギョーザ, 焼き餃子"
+  },
+  {
+    "id": 485,
+    "name": "gyoza_dumpling",
+    "tags": [ "Savory" ],
+    "description": "餃子(1個), ダンプリング"
+  },
+  {
+    "id": 486,
+    "name": "gyros_wrap",
+    "tags": [ "Savory" ],
+    "description": "ギロピタ, ジャイロ, ギリシャ風ケバブ, ピタパンサンド"
+  },
+  {
+    "id": 487,
+    "name": "gyudon",
+    "tags": [ "Savory" ],
+    "description": "牛丼, ぎゅうどん, 牛肉のどんぶり"
+  },
+  {
+    "id": 488,
+    "name": "habanero",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ハバネロ, 激辛唐辛子, メキシコの唐辛子"
+  },
+  {
+    "id": 489,
+    "name": "haggis",
+    "tags": [ "Savory" ],
+    "description": "ハギス, スコットランドの羊肉料理, 内臓料理"
+  },
+  {
+    "id": 490,
+    "name": "haggis_portion",
+    "tags": [ "Savory" ],
+    "description": "ハギス(1人前)"
+  },
+  {
+    "id": 491,
+    "name": "hainanese_chicken_rice",
+    "tags": [ "Savory" ],
+    "description": "海南鶏飯, ハイナンチキンライス, シンガポールチキンライス"
+  },
+  {
+    "id": 492,
+    "name": "hainanese_chicken_rice_portion",
+    "tags": [ "Savory" ],
+    "description": "海南鶏飯(1人前)"
+  },
+  {
+    "id": 493,
+    "name": "halo-halo",
+    "tags": [ "Sweet" ],
+    "description": "ハロハロ, フィリピン風かき氷, ミックススイーツ"
+  },
+  {
+    "id": 494,
+    "name": "halva",
+    "tags": [ "Sweet" ],
+    "description": "ハルヴァ, 中東のヌガー, ゴマの菓子"
+  },
+  {
+    "id": 495,
+    "name": "halva_chunk",
+    "tags": [ "Sweet" ],
+    "description": "ハルヴァの塊"
+  },
+  {
+    "id": 496,
+    "name": "halva_piece",
+    "tags": [ "Sweet" ],
+    "description": "カットハルヴァ, ハルヴァ(1切れ)"
+  },
+  {
+    "id": 497,
+    "name": "hamaguri_no_ushio-jiru",
+    "tags": [ "Savory" ],
+    "description": "はまぐりのお吸い物, 潮汁, 蛤のスープ"
+  },
+  {
+    "id": 498,
+    "name": "hamburg_steak",
+    "tags": [ "Savory" ],
+    "description": "ハンバーグ, ハンバーグステーキ, 合挽き肉焼き"
+  },
+  {
+    "id": 499,
+    "name": "hanami_dango",
+    "tags": [ "Sweet" ],
+    "description": "三色団子, 花見団子, 串団子"
+  },
+  {
+    "id": 500,
+    "name": "hanpen",
+    "tags": [ "Savory" ],
+    "description": "はんぺん, 半平, おでんの具, 練り物"
+  },
+  {
+    "id": 501,
+    "name": "harissa",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ハリッサ, 北アフリカの辛味ペースト, チュニジアの調味料"
+  },
+  {
+    "id": 502,
+    "name": "harissa_paste",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ハリッサペースト"
+  },
+  {
+    "id": 503,
+    "name": "har_gow",
+    "tags": [ "Savory" ],
+    "description": "ハーガオ, エビ蒸し餃子, 蝦餃, 広東点心"
+  },
+  {
+    "id": 504,
+    "name": "har_gow_shrimp",
+    "tags": [ "Savory" ],
+    "description": "エビ餃子, シュリンプダンプリング"
+  },
+  {
+    "id": 505,
+    "name": "hazelnut",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ヘーゼルナッツ, セイヨウハシバミ, ナッツ"
+  },
+  {
+    "id": 506,
+    "name": "heirloom_tomato",
+    "tags": [ "Savory" ],
+    "description": "エアルームトマト, 伝統品種のトマト, カラフルトマト"
+  },
+  {
+    "id": 507,
+    "name": "hijiki",
+    "tags": [ "Savory" ],
+    "description": "ひじき, ヒジキ, 鹿尾菜, 海藻"
+  },
+  {
+    "id": 508,
+    "name": "hijiki_nimono",
+    "tags": [ "Savory" ],
+    "description": "ひじきの煮物, ヒジキの煮付け"
+  },
+  {
+    "id": 509,
+    "name": "hiyashi_amezake",
+    "tags": [ "Sweet" ],
+    "description": "冷やし甘酒, 冷たい甘酒, あまざけ"
+  },
+  {
+    "id": 510,
+    "name": "hiyashi_chuuka",
+    "tags": [ "Savory" ],
+    "description": "冷やし中華, 冷麺, 夏の中華麺"
+  },
+  {
+    "id": 511,
+    "name": "hiyayakko",
+    "tags": [ "Savory" ],
+    "description": "冷奴, ひややっこ, 豆腐"
+  },
+  {
+    "id": 512,
+    "name": "hollow_chocolate_sphere",
+    "tags": [ "Sweet" ],
+    "description": "中空チョコ球, チョコレートドーム, チョコボール"
+  },
+  {
+    "id": 513,
+    "name": "honey",
+    "tags": [ "Sweet" ],
+    "description": "はちみつ, ハチミツ, 蜂蜜, ハニー"
+  },
+  {
+    "id": 514,
+    "name": "honeyberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ハスカップ, ハニーベリー, クロミノウグイスカグラ"
+  },
+  {
+    "id": 515,
+    "name": "honeycomb_chunk",
+    "tags": [ "Sweet" ],
+    "description": "巣蜜, コムハニー, 蜂の巣の塊"
+  },
+  {
+    "id": 516,
+    "name": "honeycomb_toffee_piece",
+    "tags": [ "Sweet" ],
+    "description": "カルメ焼き, ハニカムトフィー, スポンジキャンディ"
+  },
+  {
+    "id": 517,
+    "name": "honeydew",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ハネジューメロン, 白肉メロン, ハネデューメロン"
+  },
+  {
+    "id": 518,
+    "name": "honeysuckle_berry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "スイカズラの実, ハニーサックルベリー"
+  },
+  {
+    "id": 519,
+    "name": "honey_toast",
+    "tags": [ "Sweet" ],
+    "description": "ハニートースト, ハニトー, 厚切りトースト"
+  },
+  {
+    "id": 520,
+    "name": "hotate_no_isoyaki",
+    "tags": [ "Savory" ],
+    "description": "ホタテの磯焼き, 帆立焼き, ホタテの浜焼き"
+  },
+  {
+    "id": 521,
+    "name": "hot_and_sour_soup",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "酸辣湯, サンラータン, スーラータン, 中華スープ"
+  },
+  {
+    "id": 522,
+    "name": "hot_chocolate_marshmallow",
+    "tags": [ "Sweet" ],
+    "description": "マシュマロ入りホットチョコ, マシュマロココア"
+  },
+  {
+    "id": 523,
+    "name": "hot_chocolate_with_whipped_cream",
+    "tags": [ "Sweet" ],
+    "description": "ホイップココア, ウィンナーココア, ホットチョコレート"
+  },
+  {
+    "id": 524,
+    "name": "hot_dog",
+    "tags": [ "Savory" ],
+    "description": "ホットドッグ, ソーセージパン"
+  },
+  {
+    "id": 525,
+    "name": "hot_sour_soup_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "酸辣湯ボウル"
+  },
+  {
+    "id": 526,
+    "name": "huevos_rancheros",
+    "tags": [ "Savory" ],
+    "description": "ウエボスランチェロス, メキシコ風目玉焼き, トルティーヤと卵"
+  },
+  {
+    "id": 527,
+    "name": "hummus",
+    "tags": [ "Savory" ],
+    "description": "フムス, ひよこ豆のペースト, 中東のディップ"
+  },
+  {
+    "id": 528,
+    "name": "hummus_bowl",
+    "tags": [ "Savory" ],
+    "description": "フムスボウル"
+  },
+  {
+    "id": 529,
+    "name": "iced_coffee",
+    "tags": [ "Savory" ],
+    "description": "アイスコーヒー, 冷たいコーヒー, 冷コー"
+  },
+  {
+    "id": 530,
+    "name": "iced_coffee_glass",
+    "tags": [ "Savory" ],
+    "description": "グラス入りアイスコーヒー"
+  },
+  {
+    "id": 531,
+    "name": "ice_cream_cone",
+    "tags": [ "Sweet" ],
+    "description": "アイスクリームコーン, ソフトクリーム, コーンアイス"
+  },
+  {
+    "id": 532,
+    "name": "ice_cream_sandwich",
+    "tags": [ "Sweet" ],
+    "description": "アイスサンド, ビスケットアイス, クッキーアイス"
+  },
+  {
+    "id": 533,
+    "name": "ikanosugata-yaki",
+    "tags": [ "Savory" ],
+    "description": "イカの姿焼き, いか焼き, 烏賊の丸焼き"
+  },
+  {
+    "id": 534,
+    "name": "ikura",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "いくら, イクラ, 鮭の卵"
+  },
+  {
+    "id": 535,
+    "name": "imagawayaki",
+    "tags": [ "Sweet" ],
+    "description": "今川焼き, 大判焼き, 回転焼き, 御座候"
+  },
+  {
+    "id": 536,
+    "name": "imbe",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "インベ, アフリカンマンゴスチン"
+  },
+  {
+    "id": 537,
+    "name": "inari_sushi",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "いなり寿司, お稲荷さん, きつね寿司"
+  },
+  {
+    "id": 538,
+    "name": "injera",
+    "tags": [ "Savory" ],
+    "description": "インジェラ, エチオピアのクレープパン, テフのパン"
+  },
+  {
+    "id": 539,
+    "name": "injera_bread",
+    "tags": [ "Savory" ],
+    "description": "インジェラパン"
+  },
+  {
+    "id": 540,
+    "name": "ishikari_nabe",
+    "tags": [ "Savory" ],
+    "description": "石狩鍋, 鮭の味噌鍋, 北海道の鍋"
+  },
+  {
+    "id": 541,
+    "name": "isomalt_sail",
+    "tags": [ "Sweet" ],
+    "description": "飴細工, イソマルトの飾り, シュガーセイル"
+  },
+  {
+    "id": 542,
+    "name": "jabuticaba",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ジャボチカバ, ブラジルのブドウ"
+  },
+  {
+    "id": 543,
+    "name": "jackfruit",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ジャックフルーツ, パラミツ, 世界最大の果実"
+  },
+  {
+    "id": 544,
+    "name": "jambalaya",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ジャンバラヤ, ケイジャンピラフ, アメリカ南部風炊き込みご飯"
+  },
+  {
+    "id": 545,
+    "name": "jamon_iberico",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "イベリコ豚の生ハム, ハモン・イベリコ, スペインの生ハム"
+  },
+  {
+    "id": 546,
+    "name": "jamon_iberico_slice",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "ハモンイベリコ(1切れ)"
+  },
+  {
+    "id": 547,
+    "name": "jamon_ibérico",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "イベリコ豚の生ハム, ハモン・イベリコ"
+  },
+  {
+    "id": 548,
+    "name": "jam_pan",
+    "tags": [ "Sweet" ],
+    "description": "ジャムパン, じゃむぱん, 菓子パン"
+  },
+  {
+    "id": 549,
+    "name": "japchae",
+    "tags": [ "Savory" ],
+    "description": "チャプチェ, 韓国風春雨炒め, 唐麺"
+  },
+  {
+    "id": 550,
+    "name": "japchae_noodle",
+    "tags": [ "Savory" ],
+    "description": "チャプチェ麺"
+  },
+  {
+    "id": 551,
+    "name": "japchae_noodles",
+    "tags": [ "Savory" ],
+    "description": "チャプチェの春雨"
+  },
+  {
+    "id": 552,
+    "name": "jerk_chicken",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ジャークチキン, ジャマイカ風スパイシーチキン, 炭火焼きチキン"
+  },
+  {
+    "id": 553,
+    "name": "jicama_slice",
+    "tags": [ "Savory" ],
+    "description": "ヒカマ, メキシコポテト, クズイモ"
+  },
+  {
+    "id": 554,
+    "name": "jocote",
+    "tags": [ "Fruit" ],
+    "description": "ホコテ, レッドモンビン, 中米の果物"
+  },
+  {
+    "id": 555,
+    "name": "jollof_rice",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ジョロフライス, 西アフリカ風炊き込みご飯, トマトライス"
+  },
+  {
+    "id": 556,
+    "name": "jollof_rice_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ジョロフライス(1人前)"
+  },
+  {
+    "id": 557,
+    "name": "jujube",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ナツメ, 棗, ジュジュブ"
+  },
+  {
+    "id": 558,
+    "name": "juniper_berries",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ジュニパーベリー, セイヨウネズの実, ジンの香り付け"
+  },
+  {
+    "id": 559,
+    "name": "kabosu",
+    "tags": [ "Fruit", "Savory" ],
+    "description": "かぼす, カボス, 香母酢, 柑橘類"
+  },
+  {
+    "id": 560,
+    "name": "kaffir_lime_leaf",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "バイマックルー, こぶみかんの葉, カフィアライムリーフ, タイカレーのハーブ"
+  },
+  {
+    "id": 561,
+    "name": "kakipii",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "柿の種, 柿ピー, 米菓とおつまみ"
+  },
+  {
+    "id": 562,
+    "name": "kaki_fry",
+    "tags": [ "Savory" ],
+    "description": "カキフライ, かきふらい, 牡蠣の揚げ物"
+  },
+  {
+    "id": 563,
+    "name": "kale",
+    "tags": [ "Savory" ],
+    "description": "ケール, 緑黄色野菜, 青汁の原料"
+  },
+  {
+    "id": 564,
+    "name": "kamaboko",
+    "tags": [ "Savory" ],
+    "description": "かまぼこ, 蒲鉾, 板蒲鉾, 練り物"
+  },
+  {
+    "id": 565,
+    "name": "kaminari_okoshi",
+    "tags": [ "Sweet" ],
+    "description": "雷おこし, おこし, 米菓, 浅草名物"
+  },
+  {
+    "id": 566,
+    "name": "karaage",
+    "tags": [ "Savory" ],
+    "description": "唐揚げ, からあげ, フライドチキン, 鶏の唐揚げ"
+  },
+  {
+    "id": 567,
+    "name": "kare_pan",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "カレーパン, 揚げカレーパン, 惣菜パン"
+  },
+  {
+    "id": 568,
+    "name": "karinto",
+    "tags": [ "Sweet" ],
+    "description": "かりんとう, 花林糖, 揚げ菓子"
+  },
+  {
+    "id": 569,
+    "name": "kashiwa-mochi",
+    "tags": [ "Sweet" ],
+    "description": "柏餅, かしわもち, 端午の節句の和菓子"
+  },
+  {
+    "id": 570,
+    "name": "katsudon",
+    "tags": [ "Savory" ],
+    "description": "カツ丼, かつどん, 豚カツの卵とじ丼"
+  },
+  {
+    "id": 571,
+    "name": "katsu_sando",
+    "tags": [ "Savory" ],
+    "description": "カツサンド, 豚カツサンドイッチ, 惣菜パン"
+  },
+  {
+    "id": 572,
+    "name": "kayaku_gohan",
+    "tags": [ "Savory" ],
+    "description": "かやくご飯, 炊き込みご飯, 五目ご飯"
+  },
+  {
+    "id": 573,
+    "name": "kazunoko",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "数の子, かずのこ, ニシンの卵, おせち料理"
+  },
+  {
+    "id": 574,
+    "name": "kebab",
+    "tags": [ "Savory" ],
+    "description": "ケバブ, ドネルケバブ, トルコ風焼肉"
+  },
+  {
+    "id": 575,
+    "name": "kebab_skewer",
+    "tags": [ "Savory" ],
+    "description": "シシケバブ, 串焼きケバブ"
+  },
+  {
+    "id": 576,
+    "name": "keema_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "キーマカレー, ひき肉のカレー, ドライカレー"
+  },
+  {
+    "id": 577,
+    "name": "key_lime_pie",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "キーライムパイ, フロリダ名物パイ, ライムタルト"
+  },
+  {
+    "id": 578,
+    "name": "key_lime_pie_slice",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "カットキーライムパイ, キーライムパイ(1切れ)"
+  },
+  {
+    "id": 579,
+    "name": "kibbeh",
+    "tags": [ "Savory" ],
+    "description": "キッベ, クッバ, 中東風ミートボール, ブルグルのコロッケ"
+  },
+  {
+    "id": 580,
+    "name": "kimbap",
+    "tags": [ "Savory" ],
+    "description": "キンパ, 韓国風海苔巻き, キムパプ"
+  },
+  {
+    "id": 581,
+    "name": "kimbap_roll",
+    "tags": [ "Savory" ],
+    "description": "丸ごとキンパ, キンパのロール"
+  },
+  {
+    "id": 582,
+    "name": "kimbap_slice",
+    "tags": [ "Savory" ],
+    "description": "カットキンパ, キンパ(1切れ)"
+  },
+  {
+    "id": 583,
+    "name": "kimchi",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "キムチ, 白菜キムチ, 韓国漬物"
+  },
+  {
+    "id": 584,
+    "name": "kimchi_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "キムチ(1人前)"
+  },
+  {
+    "id": 585,
+    "name": "king_crab_leg",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "タラバガニの脚, キングクラブ, カニ脚"
+  },
+  {
+    "id": 586,
+    "name": "kinpira_gobo",
+    "tags": [ "Savory" ],
+    "description": "きんぴらごぼう, 金平牛蒡, ごぼうの炒め煮"
+  },
+  {
+    "id": 587,
+    "name": "kiritanpo",
+    "tags": [ "Savory" ],
+    "description": "きりたんぽ, 秋田名物, 焼きおにぎり風"
+  },
+  {
+    "id": 588,
+    "name": "kitsune_udon",
+    "tags": [ "Savory" ],
+    "description": "きつねうどん, 油揚げうどん"
+  },
+  {
+    "id": 589,
+    "name": "kiwi",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "キウイ, キウイフルーツ, 彌猴桃"
+  },
+  {
+    "id": 590,
+    "name": "kiwi_wheel",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "輪切りキウイ, スライスキウイ"
+  },
+  {
+    "id": 591,
+    "name": "knickerbocker_glory",
+    "tags": [ "Sweet" ],
+    "description": "ニッカーボッカーグローリー, イギリス風パフェ, 巨大サンデー"
+  },
+  {
+    "id": 592,
+    "name": "knish",
+    "tags": [ "Savory" ],
+    "description": "クニッシュ, ユダヤ風パイ, ポテトパイ"
+  },
+  {
+    "id": 593,
+    "name": "kohlrabi",
+    "tags": [ "Savory" ],
+    "description": "コールラビ, カブカンラン, 球茎甘藍"
+  },
+  {
+    "id": 594,
+    "name": "kombu",
+    "tags": [ "Savory" ],
+    "description": "昆布, こんぶ, 海藻, 出汁昆布"
+  },
+  {
+    "id": 595,
+    "name": "kombucha",
+    "tags": [ "Savory" ],
+    "description": "コンブチャ, 紅茶キノコ, 発酵飲料"
+  },
+  {
+    "id": 596,
+    "name": "konpeito",
+    "tags": [ "Sweet" ],
+    "description": "金平糖, こんぺいとう, コンペイトー, 砂糖菓子"
+  },
+  {
+    "id": 597,
+    "name": "korean_fried_chicken",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ヤンニョムチキン, 韓国風フライドチキン, 甘辛チキン"
+  },
+  {
+    "id": 598,
+    "name": "korean_pear",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "韓国梨, 朝鮮梨"
+  },
+  {
+    "id": 599,
+    "name": "korokke",
+    "tags": [ "Savory" ],
+    "description": "コロッケ, ポテトコロッケ, クロケット"
+  },
+  {
+    "id": 600,
+    "name": "kouglof",
+    "tags": ["Sweet"],
+    "description": "クグロフ, アルザス風菓子パン, 王冠型ケーキ"
+  },
+  {
+    "id": 601,
+    "name": "kouign-amann",
+    "tags": ["Sweet"],
+    "description": "クイニーアマン, ブルターニュ風バター菓子, デニッシュ"
+  },
+  {
+    "id": 602,
+    "name": "kulfi",
+    "tags": ["Sweet"],
+    "description": "クルフィ, インド風アイスクリーム, 溶けにくいアイス"
+  },
+  {
+    "id": 603,
+    "name": "kulfi_on_stick",
+    "tags": ["Sweet"],
+    "description": "棒付きクルフィ, クルフィバー"
+  },
+  {
+    "id": 604,
+    "name": "kumquat",
+    "tags": ["Fruit", "Sweet"],
+    "description": "金柑, キンカン, きんかん"
+  },
+  {
+    "id": 605,
+    "name": "kunafa",
+    "tags": ["Sweet"],
+    "description": "クナーファ, 中東のチーズケーキ, シロップ菓子"
+  },
+  {
+    "id": 606,
+    "name": "kunafa_slice",
+    "tags": ["Sweet"],
+    "description": "カットクナーファ, クナーファ(1切れ)"
+  },
+  {
+    "id": 607,
+    "name": "kung_pao_chicken",
+    "tags": ["Savory", "Spicy"],
+    "description": "宮保鶏丁, ゴンバオチーディン, 鶏肉のカシューナッツ炒め"
+  },
+  {
+    "id": 608,
+    "name": "kung_pao_chicken_bowl",
+    "tags": ["Savory", "Spicy"],
+    "description": "宮保鶏丁ボウル"
+  },
+  {
+    "id": 609,
+    "name": "kuzu-kiri",
+    "tags": ["Sweet"],
+    "description": "葛切り, くずきり, 和スイーツ"
+  },
+  {
+    "id": 610,
+    "name": "kuzu_mochi",
+    "tags": ["Sweet"],
+    "description": "葛餅, くずもち, 和スイーツ"
+  },
+  {
+    "id": 611,
+    "name": "ladyfingers",
+    "tags": ["Sweet"],
+    "description": "レディフィンガー, サヴォイアルディ, ティラミス用ビスケット"
+  },
+  {
+    "id": 612,
+    "name": "laksa",
+    "tags": ["Savory", "Spicy"],
+    "description": "ラクサ, 東南アジアのスパイシー麺, ココナッツカレー麺"
+  },
+  {
+    "id": 613,
+    "name": "laksa_bowl",
+    "tags": ["Savory", "Spicy"],
+    "description": "ラクサボウル"
+  },
+  {
+    "id": 614,
+    "name": "laksa_noodle_soup",
+    "tags": ["Savory", "Spicy"],
+    "description": "ラクサスープ麺"
+  },
+  {
+    "id": 615,
+    "name": "lamington",
+    "tags": ["Sweet"],
+    "description": "ラミントン, オーストラリアのチョコココナッツケーキ"
+  },
+  {
+    "id": 616,
+    "name": "lamington_cube",
+    "tags": ["Sweet"],
+    "description": "キューブラミントン, ラミントン(1個)"
+  },
+  {
+    "id": 617,
+    "name": "langsat",
+    "tags": ["Fruit"],
+    "description": "ランサ, ドゥク, 東南アジアの果物"
+  },
+  {
+    "id": 618,
+    "name": "langue_de_chat",
+    "tags": ["Sweet"],
+    "description": "ラングドシャ, 猫の舌クッキー, 薄焼きクッキー"
+  },
+  {
+    "id": 619,
+    "name": "lasagna",
+    "tags": ["Savory"],
+    "description": "ラザニア, シート状パスタのオーブン焼き, イタリア料理"
+  },
+  {
+    "id": 620,
+    "name": "lasagna_alla_bolognese",
+    "tags": ["Savory"],
+    "description": "ボローニャ風ラザニア, ミートソースラザニア"
+  },
+  {
+    "id": 621,
+    "name": "lassi",
+    "tags": ["Sweet"],
+    "description": "ラッシー, インドのヨーグルトドリンク"
+  },
+  {
+    "id": 622,
+    "name": "lassi_glass",
+    "tags": ["Sweet"],
+    "description": "グラス入りラッシー"
+  },
+  {
+    "id": 623,
+    "name": "lassi_yogurt_drink",
+    "tags": ["Sweet"],
+    "description": "ヨーグルトラッシー"
+  },
+  {
+    "id": 624,
+    "name": "latkes",
+    "tags": ["Savory"],
+    "description": "ラトケス, ユダヤ風ポテトパンケーキ, じゃがい目のパンケーキ"
+  },
+  {
+    "id": 625,
+    "name": "latte_art",
+    "tags": ["Sweet"],
+    "description": "ラテアート, カフェラテ, デザインラテ"
+  },
+  {
+    "id": 626,
+    "name": "latte_art_heart",
+    "tags": ["Sweet"],
+    "description": "ハートのラテアート"
+  },
+  {
+    "id": 627,
+    "name": "leek",
+    "tags": ["Savory"],
+    "description": "ポロネギ, リーキ, 西洋ネギ"
+  },
+  {
+    "id": 628,
+    "name": "lemon",
+    "tags": ["Fruit", "Sweet"],
+    "description": "レモン, 檸檬, れもん, 柑橘類"
+  },
+  {
+    "id": 629,
+    "name": "lemongrass_stalk",
+    "tags": ["Savory"],
+    "description": "レモングラス, ハーブの茎"
+  },
+  {
+    "id": 630,
+    "name": "lemon_slice",
+    "tags": ["Fruit", "Sweet"],
+    "description": "カットレモン, 輪切りレモン, スライスレモン"
+  },
+  {
+    "id": 631,
+    "name": "lemon_sorbet_in_shell",
+    "tags": ["Sweet"],
+    "description": "レモンシャーベット, 丸ごとレモンソルベ"
+  },
+  {
+    "id": 632,
+    "name": "lemon_tart_slice",
+    "tags": ["Sweet"],
+    "description": "レモンタルト, タルト・オ・シトロン, カットタルト"
+  },
+  {
+    "id": 633,
+    "name": "lemon_zest",
+    "tags": ["Fruit", "Sweet"],
+    "description": "レモンゼスト, レモンの皮のすりおろし"
+  },
+  {
+    "id": 634,
+    "name": "lentil_soup",
+    "tags": ["Savory"],
+    "description": "レンズ豆のスープ, ダルスープ, トルコ風スープ"
+  },
+  {
+    "id": 635,
+    "name": "lettuce",
+    "tags": ["Savory"],
+    "description": "レタス, れたす, 玉萵苣"
+  },
+  {
+    "id": 636,
+    "name": "lime",
+    "tags": ["Fruit", "Sweet"],
+    "description": "ライム, らいむ, 柑橘類"
+  },
+  {
+    "id": 637,
+    "name": "lime_zest_curl",
+    "tags": ["Fruit", "Sweet"],
+    "description": "ライムゼスト, ライムの皮の飾り"
+  },
+  {
+    "id": 638,
+    "name": "linguine",
+    "tags": ["Savory"],
+    "description": "リングイネ, 楕円形パスタ, ロングパスタ"
+  },
+  {
+    "id": 639,
+    "name": "linguine_with_clams",
+    "tags": ["Savory"],
+    "description": "ボンゴレ・ビアンコ, アサリのリングイネ, 貝のパスタ"
+  },
+  {
+    "id": 640,
+    "name": "linzer_torte",
+    "tags": ["Sweet"],
+    "description": "リンツァートルテ, オーストリアのジャムタルト, 世界最古のケーキ"
+  },
+  {
+    "id": 641,
+    "name": "linzer_torte_slice",
+    "tags": ["Sweet"],
+    "description": "カットリンツァートルテ"
+  },
+  {
+    "id": 642,
+    "name": "lobster_roll",
+    "tags": ["Savory", "Luxury"],
+    "description": "ロブスターロール, オマール海老のサンドイッチ"
+  },
+  {
+    "id": 643,
+    "name": "lobster_tail",
+    "tags": ["Savory", "Luxury"],
+    "description": "ロブスターの尾, オマール海老のテイル, エビの尻尾"
+  },
+  {
+    "id": 644,
+    "name": "lobster_thermidor",
+    "tags": ["Savory", "Luxury"],
+    "description": "ロブスターテルミドール, オマール海老のグラタン"
+  },
+  {
+    "id": 645,
+    "name": "loco_moco",
+    "tags": ["Savory"],
+    "description": "ロコモコ, ハワイ風ハンバーグ丼, 目玉焼きハンバーグご飯"
+  },
+  {
+    "id": 646,
+    "name": "loco_moco_plate",
+    "tags": ["Savory"],
+    "description": "ロコモコプレート"
+  },
+  {
+    "id": 647,
+    "name": "lollipop_swirl",
+    "tags": ["Sweet"],
+    "description": "ペロペロキャンディ, うずまきキャンディ, ロリポップ"
+  },
+  {
+    "id": 648,
+    "name": "lomo_saltado",
+    "tags": ["Savory"],
+    "description": "ロモ・サルタード, ペルー風牛肉炒め, 牛肉とポテトの炒め物"
+  },
+  {
+    "id": 649,
+    "name": "lomo_saltado_portion",
+    "tags": ["Savory"],
+    "description": "ロモ・サルタード(1人前)"
+  },
+  {
+    "id": 650,
+    "name": "longan",
+    "tags": ["Fruit"],
+    "description": "リュウガン, ロンガン, 竜眼"
+  },
+  {
+    "id": 651,
+    "name": "loquat",
+    "tags": ["Fruit"],
+    "description": "ビワ, 枇杷, びわ"
+  },
+  {
+    "id": 652,
+    "name": "lotus_root_slice",
+    "tags": ["Savory"],
+    "description": "レンコン, 蓮根, スライスレンコン"
+  },
+  {
+    "id": 653,
+    "name": "lo_mai_gai",
+    "tags": ["Savory"],
+    "description": "糯米鶏, ローマイガイ, 中華風ちまき, 蓮の葉包みご飯"
+  },
+  {
+    "id": 654,
+    "name": "lychee",
+    "tags": ["Fruit"],
+    "description": "ライチ, レイシ, 茘枝"
+  },
+  {
+    "id": 655,
+    "name": "mabo_nasu",
+    "tags": ["Savory", "Spicy"],
+    "description": "麻婆茄子, マーボーナス, ナスの中華炒め"
+  },
+  {
+    "id": 656,
+    "name": "macadamia_nut",
+    "tags": ["Savory", "Sweet"],
+    "description": "マカダミアナッツ, マカデミアナッツ, ハワイアンナッツ"
+  },
+  {
+    "id": 657,
+    "name": "macadamia_nut_chocolate",
+    "tags": ["Sweet"],
+    "description": "マカダミアナッツチョコ, ハワイ土産チョコ"
+  },
+  {
+    "id": 658,
+    "name": "macadamia_nut_half",
+    "tags": ["Savory", "Sweet"],
+    "description": "半分に割ったマカダミアナッツ, ハーフマカダミア"
+  },
+  {
+    "id": 659,
+    "name": "macaron",
+    "tags": ["Sweet"],
+    "description": "マカロン, フランス菓子, アーモンドクッキー"
+  },
+  {
+    "id": 660,
+    "name": "macaroni",
+    "tags": ["Savory"],
+    "description": "マカロニ, ショートパスタ, 穴あきパスタ"
+  },
+  {
+    "id": 661,
+    "name": "macaroni_gratin",
+    "tags": ["Savory"],
+    "description": "マカロニグラタン, チーズグラタン"
+  },
+  {
+    "id": 662,
+    "name": "macaron_variety",
+    "tags": ["Sweet"],
+    "description": "マカロンセット, 色々なマカロン"
+  },
+  {
+    "id": 663,
+    "name": "macaroon_coconut",
+    "tags": ["Sweet"],
+    "description": "ココナッツマカロン, マカルーン, アメリカ風マカロン"
+  },
+  {
+    "id": 664,
+    "name": "macchiato",
+    "tags": ["Sweet"],
+    "description": "マキアート, エスプレッソマキアート, カフェマキアート"
+  },
+  {
+    "id": 665,
+    "name": "macchiato_stain",
+    "tags": ["Sweet"],
+    "description": "マキアートの染み, コーヒーステイン"
+  },
+  {
+    "id": 666,
+    "name": "mace_blades",
+    "tags": ["Savory", "Spicy"],
+    "description": "メース, ナツメグの仮種皮, スパイス"
+  },
+  {
+    "id": 667,
+    "name": "madeleine",
+    "tags": ["Sweet"],
+    "description": "マドレーヌ, 貝殻型ケーキ, フランスの焼き菓子"
+  },
+  {
+    "id": 668,
+    "name": "madeleine_shell",
+    "tags": ["Sweet"],
+    "description": "貝殻マドレーヌ"
+  },
+  {
+    "id": 669,
+    "name": "maitake",
+    "tags": ["Savory"],
+    "description": "マイタケ, 舞茸, きのこ"
+  },
+  {
+    "id": 670,
+    "name": "malasada",
+    "tags": ["Sweet"],
+    "description": "マラサダ, ハワイ風ドーナツ, ポルトガルの揚げパン"
+  },
+  {
+    "id": 671,
+    "name": "malasada_sugar",
+    "tags": ["Sweet"],
+    "description": "シュガーマラサダ"
+  },
+  {
+    "id": 672,
+    "name": "malatang",
+    "tags": ["Savory", "Spicy"],
+    "description": "麻辣湯, マーラータン, 中国の辛いスープ"
+  },
+  {
+    "id": 673,
+    "name": "mamey_sapote",
+    "tags": ["Fruit"],
+    "description": "マメイサポテ, 中米のフルーツ"
+  },
+  {
+    "id": 674,
+    "name": "manchego_wedge",
+    "tags": ["Savory"],
+    "description": "マンチェゴチーズ, スペインの羊乳チーズ"
+  },
+  {
+    "id": 675,
+    "name": "mango",
+    "tags": ["Fruit", "Sweet"],
+    "description": "マンゴー, 芒果, まんごー"
+  },
+  {
+    "id": 676,
+    "name": "mangosteen",
+    "tags": ["Fruit"],
+    "description": "マンゴスチン, 果物の女王"
+  },
+  {
+    "id": 677,
+    "name": "mango_chunk",
+    "tags": ["Fruit", "Sweet"],
+    "description": "カットマンゴー, 角切りマンゴー"
+  },
+  {
+    "id": 678,
+    "name": "mango_sticky_rice",
+    "tags": ["Sweet"],
+    "description": "カオニャオ・マムアン, マンゴーとココナッツもち米, タイのスイーツ"
+  },
+  {
+    "id": 679,
+    "name": "mango_sticky_rice_portion",
+    "tags": ["Sweet"],
+    "description": "マンゴーもち米(1人前)"
+  },
+  {
+    "id": 680,
+    "name": "manju",
+    "tags": ["Sweet"],
+    "description": "まんじゅう, 饅頭, 和菓子"
+  },
+  {
+    "id": 681,
+    "name": "maple_syrup",
+    "tags": ["Sweet"],
+    "description": "メープルシロップ, 楓のシロップ, パンケーキシロップ"
+  },
+  {
+    "id": 682,
+    "name": "mapo_tofu",
+    "tags": ["Savory", "Spicy"],
+    "description": "麻婆豆腐, マーボー豆腐, 中華の辛い豆腐料理"
+  },
+  {
+    "id": 683,
+    "name": "mapo_tofu_bowl",
+    "tags": ["Savory", "Spicy"],
+    "description": "麻婆豆腐丼, マーボー丼"
+  },
+  {
+    "id": 684,
+    "name": "mapo_tofu_portion",
+    "tags": ["Savory", "Spicy"],
+    "description": "麻婆豆腐(1人前)"
+  },
+  {
+    "id": 685,
+    "name": "maraschino_cherry",
+    "tags": ["Sweet", "Fruit"],
+    "description": "マラスキーノチェリー, カクテルチェリー, 赤いチェリー"
+  },
+  {
+    "id": 686,
+    "name": "margarita_cocktail",
+    "tags": ["Sweet"],
+    "description": "マルガリータ, テキーラカクテル"
+  },
+  {
+    "id": 687,
+    "name": "margherita_pizza",
+    "tags": ["Savory"],
+    "description": "マルゲリータピザ, トマトとモッツァレラのピザ, イタリアンピザ"
+  },
+  {
+    "id": 688,
+    "name": "marionberry",
+    "tags": ["Fruit"],
+    "description": "マリオンベリー, ブラックベリーの一種"
+  },
+  {
+    "id": 689,
+    "name": "maritozzo",
+    "tags": ["Sweet"],
+    "description": "マリトッツォ, クリームたっぷりパン, イタリアンスイーツ"
+  },
+  {
+    "id": 690,
+    "name": "marmalade",
+    "tags": ["Sweet", "Fruit"],
+    "description": "マーマレード, オレンジジャム, 柑橘ジャム"
+  },
+  {
+    "id": 691,
+    "name": "marshmallow",
+    "tags": ["Sweet"],
+    "description": "マシュマロ, ましゅまろ, ソフトキャンディ"
+  },
+  {
+    "id": 692,
+    "name": "martabak",
+    "tags": ["Sweet"],
+    "description": "マルタバ, インドネシア風パンケーキ, 屋台スイーツ"
+  },
+  {
+    "id": 693,
+    "name": "martabak_sweet",
+    "tags": ["Sweet"],
+    "description": "甘いマルタバ, マルタバマニス, 厚焼きクレープ"
+  },
+  {
+    "id": 694,
+    "name": "martini_with_olive",
+    "tags": ["Savory"],
+    "description": "マティーニ, カクテルの王様, オリーブ入りカクテル"
+  },
+  {
+    "id": 695,
+    "name": "masala_chai_cup",
+    "tags": ["Sweet", "Spicy"],
+    "description": "マサラチャイ, インド風ミルクティー, スパイスティー"
+  },
+  {
+    "id": 696,
+    "name": "massaman_curry",
+    "tags": ["Savory", "Spicy"],
+    "description": "マッサマンカレー, ゲーンマッサマン, タイの甘辛カレー"
+  },
+  {
+    "id": 697,
+    "name": "massaman_curry_bowl",
+    "tags": ["Savory", "Spicy"],
+    "description": "マッサマンカレーボウル"
+  },
+  {
+    "id": 698,
+    "name": "matcha_chocolate_shard",
+    "tags": ["Sweet"],
+    "description": "抹茶チョコ, 割れ抹茶チョコレート, 抹茶チョコレート片"
+  },
+  {
+    "id": 699,
+    "name": "matcha_latte",
+    "tags": ["Sweet"],
+    "description": "抹茶ラテ, 抹茶ミルク"
+  },
+  {
+    "id": 700,
+    "name": "matcha_latte_art",
+    "tags": ["Sweet"],
+    "description": "抹茶ラテアート"
+  },
+  {
+    "id": 701,
+    "name": "matcha_powder",
+    "tags": ["Savory"],
+    "description": "抹茶パウダー, 粉末抹茶, お茶の粉"
+  },
+  {
+    "id": 702,
+    "name": "matcha_soft_serve",
+    "tags": ["Sweet"],
+    "description": "抹茶ソフトクリーム, 抹茶アイス"
+  },
+  {
+    "id": 703,
+    "name": "matsutake_dobin_mushi",
+    "tags": ["Savory", "Luxury"],
+    "description": "松茸の土瓶蒸し, 土瓶蒸し, 秋の味覚"
+  },
+  {
+    "id": 704,
+    "name": "matzah_ball_soup",
+    "tags": ["Savory"],
+    "description": "マッツォボールスープ, ユダヤ風団子スープ, マッツァスープ"
+  },
+  {
+    "id": 705,
+    "name": "meat_doria",
+    "tags": ["Savory"],
+    "description": "ミートドリア, サイゼリヤ風ドリア, 米のグラタン"
+  },
+  {
+    "id": 706,
+    "name": "meat_pie",
+    "tags": ["Savory"],
+    "description": "ミートパイ, オーストラリア風ミートパイ, 肉入りパイ"
+  },
+  {
+    "id": 707,
+    "name": "meat_pie_portion",
+    "tags": ["Savory"],
+    "description": "ミートパイ(1人前)"
+  },
+  {
+    "id": 708,
+    "name": "medlar",
+    "tags": ["Fruit"],
+    "description": "セイヨウカリン, メドラー"
+  },
+  {
+    "id": 709,
+    "name": "melon",
+    "tags": ["Fruit", "Sweet"],
+    "description": "メロン, めろん, マスクメロン"
+  },
+  {
+    "id": 710,
+    "name": "melonpan",
+    "tags": ["Sweet"],
+    "description": "メロンパン, サンライズ, 菓子パン"
+  },
+  {
+    "id": 711,
+    "name": "menchi_katsu",
+    "tags": ["Savory"],
+    "description": "メンチカツ, ミンチカツ, 挽肉のフライ"
+  },
+  {
+    "id": 712,
+    "name": "mentaiko",
+    "tags": ["Savory", "Spicy"],
+    "description": "明太子, 辛子明太子, めんたいこ"
+  },
+  {
+    "id": 713,
+    "name": "mentaiko_pasta",
+    "tags": ["Savory", "Spicy"],
+    "description": "明太子パスタ, たらこスパゲッティ, 和風パスタ"
+  },
+  {
+    "id": 714,
+    "name": "meringue_cookie",
+    "tags": ["Sweet"],
+    "description": "メレンゲクッキー, 焼きメレンゲ, ムラング"
+  },
+  {
+    "id": 715,
+    "name": "meringue_kiss",
+    "tags": ["Sweet"],
+    "description": "メレンゲキス, 絞り出しメレンゲ"
+  },
+  {
+    "id": 716,
+    "name": "meyer_lemon",
+    "tags": ["Fruit", "Sweet"],
+    "description": "マイヤーレモン, 甘いレモン"
+  },
+  {
+    "id": 717,
+    "name": "milkshake_whipped_cream",
+    "tags": ["Sweet"],
+    "description": "ホイップ付きミルクセーキ, ミルクシェイク"
+  },
+  {
+    "id": 718,
+    "name": "milkshake_with_cherry",
+    "tags": ["Sweet"],
+    "description": "チェリー付きミルクセーキ, ダイナー風シェイク"
+  },
+  {
+    "id": 719,
+    "name": "mille-crepe_cake",
+    "tags": ["Sweet"],
+    "description": "ミルクレープ, クレープケーキ, 日本発祥のケーキ"
+  },
+  {
+    "id": 720,
+    "name": "mille-crepe_cake_slice",
+    "tags": ["Sweet"],
+    "description": "カットミルクレープ, ミルクレープ(1切れ)"
+  },
+  {
+    "id": 721,
+    "name": "mille-feuille",
+    "tags": ["Sweet"],
+    "description": "ミルフィーユ, ミルフォイユ, フランスのパイ菓子"
+  },
+  {
+    "id": 722,
+    "name": "mille-feuille_slice",
+    "tags": ["Sweet"],
+    "description": "カットミルフィーユ, ミルフィーユ(1切れ)"
+  },
+  {
+    "id": 723,
+    "name": "minestrone",
+    "tags": ["Savory"],
+    "description": "ミネストローネ, イタリアの野菜スープ, トマトスープ"
+  },
+  {
+    "id": 724,
+    "name": "mini_marshmallow",
+    "tags": ["Sweet"],
+    "description": "ミニマシュマロ, 小さなマシュマロ"
+  },
+  {
+    "id": 725,
+    "name": "mini_sweet_peppers",
+    "tags": ["Savory"],
+    "description": "ミニパプリカ, スウィートペッパー, 小さいピーマン"
+  },
+  {
+    "id": 726,
+    "name": "mint_leaf",
+    "tags": ["Savory", "Sweet"],
+    "description": "ミントリーフ, ミントの葉, 飾り用ハーブ"
+  },
+  {
+    "id": 727,
+    "name": "miracle_fruit",
+    "tags": ["Fruit"],
+    "description": "ミラクルフルーツ, 酸味が甘くなる果物"
+  },
+  {
+    "id": 728,
+    "name": "miso_soup",
+    "tags": ["Savory"],
+    "description": "味噌汁, みそ汁, おみおつけ"
+  },
+  {
+    "id": 729,
+    "name": "miso_soup_bowl",
+    "tags": ["Savory"],
+    "description": "味噌汁のお椀"
+  },
+  {
+    "id": 730,
+    "name": "mizutaki",
+    "tags": ["Savory"],
+    "description": "水炊き, 博多水炊き, 鶏鍋"
+  },
+  {
+    "id": 731,
+    "name": "mizu_yōkan",
+    "tags": ["Sweet"],
+    "description": "水ようかん, 水羊羹, 夏の和菓子"
+  },
+  {
+    "id": 732,
+    "name": "mochi",
+    "tags": ["Savory", "Sweet"],
+    "description": "餅, もち, お餅"
+  },
+  {
+    "id": 733,
+    "name": "mochi_ball",
+    "tags": ["Savory", "Sweet"],
+    "description": "丸餅, まるもち"
+  },
+  {
+    "id": 734,
+    "name": "mochi_ice_cream",
+    "tags": ["Sweet"],
+    "description": "雪見だいふく風アイス, もちアイス, アイス大福"
+  },
+  {
+    "id": 735,
+    "name": "mojito_with_mint",
+    "tags": ["Sweet"],
+    "description": "モヒート, ミントカクテル, ラムカクテル"
+  },
+  {
+    "id": 736,
+    "name": "mole_poblano",
+    "tags": ["Savory", "Spicy"],
+    "description": "モレ・ポブラノ, メキシコのチョコソース料理, 鶏肉のモレ"
+  },
+  {
+    "id": 737,
+    "name": "monaka",
+    "tags": ["Sweet"],
+    "description": "最中, もなか, 和菓子"
+  },
+  {
+    "id": 738,
+    "name": "mont_blanc_cake",
+    "tags": ["Sweet"],
+    "description": "モンブラン, 栗のケーキ, マロンケーキ"
+  },
+  {
+    "id": 739,
+    "name": "mooncake",
+    "tags": ["Sweet"],
+    "description": "月餅, げっぺい, 中国の中秋節のお菓子"
+  },
+  {
+    "id": 740,
+    "name": "mooncake_half",
+    "tags": ["Sweet"],
+    "description": "半分に切った月餅, ハーフ月餅"
+  },
+  {
+    "id": 741,
+    "name": "moqueca",
+    "tags": ["Savory"],
+    "description": "ムケッカ, ブラジル風海鮮シチュー, ココナッツ海鮮スープ"
+  },
+  {
+    "id": 742,
+    "name": "mortadella_slice",
+    "tags": ["Savory"],
+    "description": "モルタデッラ, ボローニャソーセージ, イタリアのハム"
+  },
+  {
+    "id": 743,
+    "name": "motsunabe",
+    "tags": ["Savory"],
+    "description": "もつ鍋, モツ鍋, ホルモン鍋"
+  },
+  {
+    "id": 744,
+    "name": "moussaka",
+    "tags": ["Savory"],
+    "description": "ムサカ, ギリシャ風ナスとひき肉の重ね焼き, ナスグラタン"
+  },
+  {
+    "id": 745,
+    "name": "moussaka_slice",
+    "tags": ["Savory"],
+    "description": "カットムサカ"
+  },
+  {
+    "id": 746,
+    "name": "mousseline",
+    "tags": ["Sweet"],
+    "description": "ムースリーヌ, バター入りカスタード, クレーム・ムースリーヌ"
+  },
+  {
+    "id": 747,
+    "name": "mozzarella_ball",
+    "tags": ["Savory"],
+    "description": "モッツァレラチーズ, 水牛のチーズ, フレッシュチーズ"
+  },
+  {
+    "id": 748,
+    "name": "mud_pie",
+    "tags": ["Sweet"],
+    "description": "マッドパイ, ミシシッピ・マッドパイ, 濃厚チョコパイ"
+  },
+  {
+    "id": 749,
+    "name": "mud_pie_slice",
+    "tags": ["Sweet"],
+    "description": "カットマッドパイ, マッドパイ(1切れ)"
+  },
+  {
+    "id": 750,
+    "name": "mulberry",
+    "tags": ["Fruit"],
+    "description": "桑の実, マルベリー"
+  },
+  {
+    "id": 751,
+    "name": "multigrain_loaf",
+    "tags": ["Savory"],
+    "description": "雑穀パン, マルチグレインブレッド, シリアルブレッド"
+  },
+  {
+    "id": 752,
+    "name": "muscat_grape",
+    "tags": ["Fruit", "Sweet"],
+    "description": "マスカット, シャインマスカット, 白ぶどう"
+  },
+  {
+    "id": 753,
+    "name": "mushroom",
+    "tags": ["Savory"],
+    "description": "マッシュルーム, きのこ, シャンピニオン"
+  },
+  {
+    "id": 754,
+    "name": "mussels_in_shell",
+    "tags": ["Savory"],
+    "description": "ムール貝, 殻付きムール貝"
+  },
+  {
+    "id": 755,
+    "name": "mussels_in_white_wine",
+    "tags": ["Savory"],
+    "description": "ムール貝の白ワイン蒸し, マリニエール"
+  },
+  {
+    "id": 756,
+    "name": "mustard_seeds",
+    "tags": ["Savory", "Spicy"],
+    "description": "マスタードシード, からしの種"
+  },
+  {
+    "id": 757,
+    "name": "naan",
+    "tags": ["Savory"],
+    "description": "ナン, インドのパン, タンドール焼きパン"
+  },
+  {
+    "id": 758,
+    "name": "naan_bread",
+    "tags": ["Savory"],
+    "description": "ナンパン, プレーンナン"
+  },
+  {
+    "id": 759,
+    "name": "naan_bread_hot",
+    "tags": ["Savory"],
+    "description": "焼きたてナン, アツアツのナン"
+  },
+  {
+    "id": 760,
+    "name": "nabeyaki_udon",
+    "tags": ["Savory"],
+    "description": "鍋焼きうどん, 土鍋うどん"
+  },
+  {
+    "id": 761,
+    "name": "nachos",
+    "tags": ["Savory"],
+    "description": "ナチョス, トルティーヤチップスのチーズがけ, テクス・メクス料理"
+  },
+  {
+    "id": 762,
+    "name": "nanaimo_bar",
+    "tags": ["Sweet"],
+    "description": "ナナイモバー, カナダのチョコスイーツ, 焼かないケーキ"
+  },
+  {
+    "id": 763,
+    "name": "nance",
+    "tags": ["Fruit"],
+    "description": "ナンセ, ナンチェ, 中南米の果物"
+  },
+  {
+    "id": 764,
+    "name": "napolitan_pasta",
+    "tags": ["Savory"],
+    "description": "ナポリタン, ケチャップスパゲッティ, 喫茶店パスタ"
+  },
+  {
+    "id": 765,
+    "name": "narutomaki",
+    "tags": ["Savory"],
+    "description": "なると, 鳴門巻き, ラーメンの具, 練り物"
+  },
+  {
+    "id": 766,
+    "name": "nashi_pear",
+    "tags": ["Fruit", "Sweet"],
+    "description": "和梨, 梨, なし"
+  },
+  {
+    "id": 767,
+    "name": "nasi_goreng",
+    "tags": ["Savory", "Spicy"],
+    "description": "ナシゴレン, インドネシア風炒飯, 甘辛チャーハン"
+  },
+  {
+    "id": 768,
+    "name": "nasi_goreng_bowl",
+    "tags": ["Savory", "Spicy"],
+    "description": "ナシゴレンボウル"
+  },
+  {
+    "id": 769,
+    "name": "nasi_goreng_plate",
+    "tags": ["Savory", "Spicy"],
+    "description": "ナシゴレンプレート, 目玉焼き付きナシゴレン"
+  },
+  {
+    "id": 770,
+    "name": "nasi_lemak",
+    "tags": ["Savory"],
+    "description": "ナシレマ, マレーシアのココナッツご飯, 国民食"
+  },
+  {
+    "id": 771,
+    "name": "nasi_lemak_plate",
+    "tags": ["Savory"],
+    "description": "ナシレマプレート"
+  },
+  {
+    "id": 772,
+    "name": "natto",
+    "tags": ["Savory"],
+    "description": "納豆, なっとう, 発酵大豆"
+  },
+  {
+    "id": 773,
+    "name": "nectarine",
+    "tags": ["Fruit", "Sweet"],
+    "description": "ネクタリン, ズバイモモ, 毛のない桃"
+  },
+  {
+    "id": 774,
+    "name": "negroni",
+    "tags": ["Savory"],
+    "description": "ネグローニ, カンパリカクテル, イタリアンカクテル"
+  },
+  {
+    "id": 775,
+    "name": "nerikiri",
+    "tags": ["Sweet"],
+    "description": "練り切り, ねりきり, 上生菓子"
+  },
+  {
+    "id": 776,
+    "name": "nerikiri_flower",
+    "tags": ["Sweet"],
+    "description": "花の練り切り, 和菓子の花"
+  },
+  {
+    "id": 777,
+    "name": "nigella_seeds",
+    "tags": ["Savory", "Spicy"],
+    "description": "ニゲラシード, カロンジ, ブラッククミン"
+  },
+  {
+    "id": 778,
+    "name": "nigiri_sushi",
+    "tags": ["Savory"],
+    "description": "握り寿司, 寿司, すし"
+  },
+  {
+    "id": 779,
+    "name": "nikujaga",
+    "tags": ["Savory"],
+    "description": "肉じゃが, 肉ジャガ, 煮物"
+  },
+  {
+    "id": 780,
+    "name": "ningyo-yaki",
+    "tags": ["Sweet"],
+    "description": "人形焼き, にんぎょうやき, カステラ焼き"
+  },
+  {
+    "id": 781,
+    "name": "nira_reba",
+    "tags": ["Savory"],
+    "description": "レバニラ, ニラレバ炒め, 中華炒め"
+  },
+  {
+    "id": 782,
+    "name": "noni_fruit",
+    "tags": ["Fruit"],
+    "description": "ノニ, ヤエヤマアオキ, スーパーフルーツ"
+  },
+  {
+    "id": 783,
+    "name": "nonpareils",
+    "tags": ["Sweet"],
+    "description": "ノンパレル, カラーシュガー, ツブツブ砂糖"
+  },
+  {
+    "id": 784,
+    "name": "nori",
+    "tags": ["Savory"],
+    "description": "海苔, のり, 焼き海苔, 板海苔"
+  },
+  {
+    "id": 785,
+    "name": "nutmeg_whole",
+    "tags": ["Savory", "Spicy"],
+    "description": "ナツメグ, 肉荳蒄, ホールナツメグ"
+  },
+  {
+    "id": 786,
+    "name": "oatmeal_cookie",
+    "tags": ["Sweet"],
+    "description": "オートミールクッキー, オーツ麦クッキー"
+  },
+  {
+    "id": 787,
+    "name": "oatmeal_raisin_cookie",
+    "tags": ["Sweet"],
+    "description": "レーズンオートミールクッキー"
+  },
+  {
+    "id": 788,
+    "name": "oats",
+    "tags": ["Savory"],
+    "description": "オーツ麦, えん麦, オートミール"
+  },
+  {
+    "id": 789,
+    "name": "obanyaki",
+    "tags": ["Sweet"],
+    "description": "大判焼き, 今川焼き, 回転焼き"
+  },
+  {
+    "id": 790,
+    "name": "ochazuke",
+    "tags": ["Savory"],
+    "description": "お茶漬け, おちゃづけ, ご飯もの"
+  },
+  {
+    "id": 791,
+    "name": "octopus_tentacle",
+    "tags": ["Savory"],
+    "description": "タコの足, たこ足, 茹でタコ"
+  },
+  {
+    "id": 792,
+    "name": "oden",
+    "tags": ["Savory"],
+    "description": "おでん, 御田, 煮込み料理"
+  },
+  {
+    "id": 793,
+    "name": "ohagi",
+    "tags": ["Sweet"],
+    "description": "おはぎ, ぼたもち, 和菓子"
+  },
+  {
+    "id": 794,
+    "name": "ohitashi",
+    "tags": ["Savory"],
+    "description": "お浸し, おひたし, ほうれん草のおひたし"
+  },
+  {
+    "id": 795,
+    "name": "okayu",
+    "tags": ["Savory"],
+    "description": "お粥, おかゆ, 白粥"
+  },
+  {
+    "id": 796,
+    "name": "okonomiyaki",
+    "tags": ["Savory"],
+    "description": "お好み焼き, おこのみやき, 関西風お好み焼き, 広島風お好み焼き"
+  },
+  {
+    "id": 797,
+    "name": "okonomiyaki_pancake",
+    "tags": ["Savory"],
+    "description": "お好み焼き(丸形)"
+  },
+  {
+    "id": 798,
+    "name": "okra",
+    "tags": ["Savory"],
+    "description": "オクラ, おくら, 陸蓮根"
+  },
+  {
+    "id": 799,
+    "name": "old_fashioned",
+    "tags": ["Sweet"],
+    "description": "オールドファッションドーナツ, サクサクドーナツ, 定番ドーナツ"
+  },
+  {
+    "id": 801,
+    "name": "omelette",
+    "tags": [ "Savory" ],
+    "description": "オムレツ, 卵焼き, プレーンオムレツ"
+  },
+  {
+    "id": 802,
+    "name": "omurice",
+    "tags": [ "Savory" ],
+    "description": "オムライス, 卵包みご飯, 洋食"
+  },
+  {
+    "id": 803,
+    "name": "onigiri",
+    "tags": [ "Savory" ],
+    "description": "おにぎり, おむすび, 御握り"
+  },
+  {
+    "id": 804,
+    "name": "onion",
+    "tags": [ "Savory" ],
+    "description": "玉ねぎ, タマネギ, 玉葱"
+  },
+  {
+    "id": 805,
+    "name": "onion_rings",
+    "tags": [ "Savory" ],
+    "description": "オニオンリング, 玉ねぎのフライ"
+  },
+  {
+    "id": 806,
+    "name": "opera_cake",
+    "tags": [ "Sweet" ],
+    "description": "オペラ, コーヒーチョコケーキ, フランス菓子"
+  },
+  {
+    "id": 807,
+    "name": "opera_cake_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットオペラケーキ"
+  },
+  {
+    "id": 808,
+    "name": "orange",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "オレンジ, みかん, 柑橘類"
+  },
+  {
+    "id": 809,
+    "name": "orange_segment",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "カットオレンジ, オレンジの房, みかんの一房"
+  },
+  {
+    "id": 810,
+    "name": "orange_sorbet_in_shell",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "オレンジシャーベット, 丸ごとオレンジソルベ"
+  },
+  {
+    "id": 811,
+    "name": "orecchiette_with_broccoli_rabe",
+    "tags": [ "Savory" ],
+    "description": "オレキエッテ, 耳たぶパスタと菜の花, プーリア風パスタ"
+  },
+  {
+    "id": 812,
+    "name": "oyakodon",
+    "tags": [ "Savory" ],
+    "description": "親子丼, おやこどん, 鶏肉と卵のどんぶり"
+  },
+  {
+    "id": 813,
+    "name": "oyster_omelette",
+    "tags": [ "Savory" ],
+    "description": "牡蠣オムレツ, オアチェン, 台湾風牡蠣オムレツ"
+  },
+  {
+    "id": 814,
+    "name": "oyster_omelette_plate",
+    "tags": [ "Savory" ],
+    "description": "牡蠣オムレツプレート"
+  },
+  {
+    "id": 815,
+    "name": "oyster_on_the_half_shell",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "生牡蠣, 殻付き牡蠣, オイスター"
+  },
+  {
+    "id": 816,
+    "name": "pad_thai",
+    "tags": [ "Savory" ],
+    "description": "パッタイ, タイ風焼きそば, 米粉麺炒め"
+  },
+  {
+    "id": 817,
+    "name": "pad_thai_bowl",
+    "tags": [ "Savory" ],
+    "description": "パッタイボウル"
+  },
+  {
+    "id": 818,
+    "name": "pad_thai_plate",
+    "tags": [ "Savory" ],
+    "description": "パッタイプレート"
+  },
+  {
+    "id": 819,
+    "name": "paella",
+    "tags": [ "Savory" ],
+    "description": "パエリア, スペイン風炊き込みご飯, 海鮮パエリア"
+  },
+  {
+    "id": 820,
+    "name": "paella_portion",
+    "tags": [ "Savory" ],
+    "description": "パエリア(1人前)"
+  },
+  {
+    "id": 821,
+    "name": "pain_au_chocolat",
+    "tags": [ "Sweet" ],
+    "description": "パン・オ・ショコラ, チョコクロワッサン, チョコデニッシュ"
+  },
+  {
+    "id": 822,
+    "name": "pain_au_chocolat_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットパンオショコラ"
+  },
+  {
+    "id": 823,
+    "name": "pajeon_pancake",
+    "tags": [ "Savory" ],
+    "description": "パジョン, 韓国風ネギチヂミ, ネギ焼き"
+  },
+  {
+    "id": 824,
+    "name": "palak_paneer_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パラクパニールボウル, ほうれん草とチーズのカレー"
+  },
+  {
+    "id": 825,
+    "name": "palak_paneer_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パラクパニール(1人前), サグパニール"
+  },
+  {
+    "id": 826,
+    "name": "palaoa",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "パラオア, ハワイアンブレッド, タロイモパン"
+  },
+  {
+    "id": 827,
+    "name": "palmier",
+    "tags": [ "Sweet" ],
+    "description": "パルミエ, 源氏パイ, ハート型のパイ菓子"
+  },
+  {
+    "id": 828,
+    "name": "panang_curry_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パネーンカレー, ペナンカレー, タイの濃厚カレー"
+  },
+  {
+    "id": 829,
+    "name": "pancake_with_syrup",
+    "tags": [ "Sweet" ],
+    "description": "シロップパンケーキ, ホットケーキ"
+  },
+  {
+    "id": 830,
+    "name": "pancetta_cube",
+    "tags": [ "Savory" ],
+    "description": "パンチェッタ, 角切りベーコン, 生ベーコン"
+  },
+  {
+    "id": 831,
+    "name": "pancit",
+    "tags": [ "Savory" ],
+    "description": "パンシット, フィリピン風焼きそば, 春雨炒め"
+  },
+  {
+    "id": 832,
+    "name": "pandoro",
+    "tags": [ "Sweet" ],
+    "description": "パンドーロ, 星型パン, イタリアのクリスマスケーキ"
+  },
+  {
+    "id": 833,
+    "name": "pandoro_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットパンドーロ"
+  },
+  {
+    "id": 834,
+    "name": "paneer_tikka",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パニールティッカ, インド風チーズ焼き, タンドールチーズ"
+  },
+  {
+    "id": 835,
+    "name": "paneer_tikka_piece",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パニールティッカ(1個)"
+  },
+  {
+    "id": 836,
+    "name": "paneer_tikka_skewer",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "串焼きパニールティッカ"
+  },
+  {
+    "id": 837,
+    "name": "panettone",
+    "tags": [ "Sweet" ],
+    "description": "パネトーネ, イタリアのフルーツパン, クリスマスパン"
+  },
+  {
+    "id": 838,
+    "name": "panettone_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットパネトーネ"
+  },
+  {
+    "id": 839,
+    "name": "panforte",
+    "tags": [ "Sweet" ],
+    "description": "パンフォルテ, シエナのフルーツケーキ, スパイスケーキ"
+  },
+  {
+    "id": 840,
+    "name": "panna_cotta",
+    "tags": [ "Sweet" ],
+    "description": "パンナコッタ, イタリアのミルクプリン, 洋生菓子"
+  },
+  {
+    "id": 841,
+    "name": "panna_cotta_portion",
+    "tags": [ "Sweet" ],
+    "description": "パンナコッタ(1人前)"
+  },
+  {
+    "id": 842,
+    "name": "panzerotto",
+    "tags": [ "Savory" ],
+    "description": "パンツェロッティ, 揚げピザ, イタリアンファストフード"
+  },
+  {
+    "id": 843,
+    "name": "pao_de_queijo_ball",
+    "tags": [ "Savory" ],
+    "description": "ポンデケージョ, チーズパン, ブラジルのもちもちパン"
+  },
+  {
+    "id": 844,
+    "name": "papaya",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "パパイヤ, パパイア, 木瓜"
+  },
+  {
+    "id": 845,
+    "name": "papaya_salad_som_tum",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ソムタム, 青パパイヤのサラダ, タイ風サラダ"
+  },
+  {
+    "id": 846,
+    "name": "pappardelle_with_wild_boar",
+    "tags": [ "Savory" ],
+    "description": "パッパルデッレ, 猪肉の幅広パスタ, トスカーナ風パスタ"
+  },
+  {
+    "id": 847,
+    "name": "paris-brest",
+    "tags": [ "Sweet" ],
+    "description": "パリ・ブレスト, 車輪型シュークリーム, プラリネシュー"
+  },
+  {
+    "id": 848,
+    "name": "parmesan_cheese",
+    "tags": [ "Savory" ],
+    "description": "パルメザンチーズ, パルミジャーノ・レッジャーノ, 粉チーズの塊"
+  },
+  {
+    "id": 849,
+    "name": "parsnip",
+    "tags": [ "Savory" ],
+    "description": "パースニップ, シロニンジン, サトウニンジン"
+  },
+  {
+    "id": 850,
+    "name": "passion_fruit",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "パッションフルーツ, クダモノトケイソウ"
+  },
+  {
+    "id": 851,
+    "name": "pasta_genovese",
+    "tags": [ "Savory" ],
+    "description": "ジェノベーゼ, バジルソースパスタ, グリーンパスタ"
+  },
+  {
+    "id": 852,
+    "name": "pastel_de_camote",
+    "tags": [ "Sweet" ],
+    "description": "パステル・デ・カモテ, サツマイモのパイ, ペルーのスイーツ"
+  },
+  {
+    "id": 853,
+    "name": "pastel_de_nata",
+    "tags": [ "Sweet" ],
+    "description": "パステル・デ・ナタ, エッグタルト, ポルトガル風タルト"
+  },
+  {
+    "id": 854,
+    "name": "patatas_bravas",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "パタタス・ブラバス, スペイン風フライドポテト, 辛口ポテト"
+  },
+  {
+    "id": 855,
+    "name": "pate_de_campagne",
+    "tags": [ "Savory" ],
+    "description": "パテ・ド・カンパーニュ, 田舎風パテ, 豚肉のテリーヌ"
+  },
+  {
+    "id": 856,
+    "name": "pavlova",
+    "tags": [ "Sweet" ],
+    "description": "パブロバ, メレンゲケーキ, オセアニアのスイーツ"
+  },
+  {
+    "id": 857,
+    "name": "pavlova_wedge",
+    "tags": [ "Sweet" ],
+    "description": "カットパブロバ, パブロバ(1切れ)"
+  },
+  {
+    "id": 858,
+    "name": "pawpaw",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ポポー, 森のカスタードアップル, アメリカンパパイヤ"
+  },
+  {
+    "id": 859,
+    "name": "peach",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "桃, もも, ピーチ, 白桃"
+  },
+  {
+    "id": 860,
+    "name": "peanut_brittle_chunk",
+    "tags": [ "Sweet" ],
+    "description": "ピーナッツブリトル, ピーナッツ飴, ナッツのキャラメル固め"
+  },
+  {
+    "id": 861,
+    "name": "peanut_butter",
+    "tags": [ "Sweet" ],
+    "description": "ピーナッツバター, ピーナッツクリーム"
+  },
+  {
+    "id": 862,
+    "name": "peanut_butter_cookie",
+    "tags": [ "Sweet" ],
+    "description": "ピーナッツバタークッキー, ピーナッツクッキー"
+  },
+  {
+    "id": 863,
+    "name": "pear",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "洋梨, 洋ナシ, ラ・フランス, ペアー"
+  },
+  {
+    "id": 864,
+    "name": "pearl_luster_dust",
+    "tags": [ "Sweet" ],
+    "description": "ラスターダスト, 真珠パウダー, 食用キラキラパウダー"
+  },
+  {
+    "id": 865,
+    "name": "peas",
+    "tags": [ "Savory" ],
+    "description": "グリーンピース, えんどう豆, 青豆"
+  },
+  {
+    "id": 866,
+    "name": "pecan",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ピーカンナッツ, ペカンナッツ, ナッツ"
+  },
+  {
+    "id": 867,
+    "name": "pecan_half",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ハーフピーカン, 半分に割ったピーカンナッツ"
+  },
+  {
+    "id": 868,
+    "name": "pecan_pie",
+    "tags": [ "Sweet" ],
+    "description": "ピーカンパイ, アメリカ南部のパイ, ナッツタルト"
+  },
+  {
+    "id": 869,
+    "name": "pecan_pie_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットピーカンパイ"
+  },
+  {
+    "id": 870,
+    "name": "pecorino_wedge",
+    "tags": [ "Savory" ],
+    "description": "ペコリーノチーズ, 羊乳チーズ, イタリアのハードチーズ"
+  },
+  {
+    "id": 871,
+    "name": "peeled_shrimp",
+    "tags": [ "Savory" ],
+    "description": "むきエビ, 剥き海老, 小エビ"
+  },
+  {
+    "id": 872,
+    "name": "peking_duck",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "北京ダック, ローストダック, 中華料理"
+  },
+  {
+    "id": 873,
+    "name": "peking_duck_slice",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "スライス北京ダック"
+  },
+  {
+    "id": 874,
+    "name": "peking_duck_wrap",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "北京ダック巻き, カオヤーピン巻き"
+  },
+  {
+    "id": 875,
+    "name": "penne",
+    "tags": [ "Savory" ],
+    "description": "ペンネ, ショートパスタ, 筒状パスタ"
+  },
+  {
+    "id": 876,
+    "name": "penne_alla_vodka",
+    "tags": [ "Savory" ],
+    "description": "ペンネ・アラ・ウォッカ, ウォッカソースのペンネ, トマトクリームペンネ"
+  },
+  {
+    "id": 877,
+    "name": "pepino_melon",
+    "tags": [ "Fruit" ],
+    "description": "ペピーノ, メロンナシ, アンデスの果物"
+  },
+  {
+    "id": 878,
+    "name": "peppercorns",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "粒胡椒, ペッパーコーン, スパイス"
+  },
+  {
+    "id": 879,
+    "name": "peppermint_patty",
+    "tags": [ "Sweet" ],
+    "description": "ペパーミントパティ, ミントチョコ, チョコミントキャンディ"
+  },
+  {
+    "id": 880,
+    "name": "pepperoni_slice",
+    "tags": [ "Savory" ],
+    "description": "ペパロニ, サラミスライス, ピザの具"
+  },
+  {
+    "id": 881,
+    "name": "persimmon",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "柿, かき, カキ, パーシモン"
+  },
+  {
+    "id": 882,
+    "name": "pescatore",
+    "tags": [ "Savory" ],
+    "description": "ペスカトーレ, 魚介のトマトパスタ, 漁師風パスタ"
+  },
+  {
+    "id": 883,
+    "name": "pho",
+    "tags": [ "Savory" ],
+    "description": "フォー, ベトナムの米粉麺, 牛肉麺スープ"
+  },
+  {
+    "id": 884,
+    "name": "physalis",
+    "tags": [ "Fruit" ],
+    "description": "食用ほおずき, ゴールデンベリー, フィサリス"
+  },
+  {
+    "id": 885,
+    "name": "physalis_with_husk",
+    "tags": [ "Fruit" ],
+    "description": "殻付きほおずき, 皮付きゴールデンベリー"
+  },
+  {
+    "id": 886,
+    "name": "piadina",
+    "tags": [ "Savory" ],
+    "description": "ピアディーナ, イタリアの平焼きパン, ロマーニャ風ラップ"
+  },
+  {
+    "id": 887,
+    "name": "pico_de_gallo",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ピコ・デ・ガヨ, フレッシュサルサ, メキシコのトマトソース"
+  },
+  {
+    "id": 888,
+    "name": "pierogi",
+    "tags": [ "Savory" ],
+    "description": "ピエロギ, ポーランド風餃子, 東欧のダンプリング"
+  },
+  {
+    "id": 889,
+    "name": "pineapple",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "パイナップル, パイン, 鳳梨"
+  },
+  {
+    "id": 890,
+    "name": "pineapple_bun",
+    "tags": [ "Sweet" ],
+    "description": "菠蘿包, ポーローパオ, 香港風メロンパン, パイナップルパン"
+  },
+  {
+    "id": 891,
+    "name": "pineberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "パインベリー, 白いちご, パイナップル風味の苺"
+  },
+  {
+    "id": 892,
+    "name": "pink_peppercorns",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ピンクペッパー, ポアブルロゼ, 赤い胡椒"
+  },
+  {
+    "id": 893,
+    "name": "pirozhki",
+    "tags": [ "Savory" ],
+    "description": "ピロシキ, ロシアの揚げパン, 肉入りパン"
+  },
+  {
+    "id": 894,
+    "name": "pistachio",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ピスタチオ, ナッツの女王, 緑のアーモンド"
+  },
+  {
+    "id": 895,
+    "name": "pistachio_crumb",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "砕いたピスタチオ, ピスタチオダイス"
+  },
+  {
+    "id": 896,
+    "name": "pistachio_sliver",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ピスタチオスライス, 細切りピスタチオ"
+  },
+  {
+    "id": 897,
+    "name": "pita_bread",
+    "tags": [ "Savory" ],
+    "description": "ピタパン, ポケットパン, 中東の平焼きパン"
+  },
+  {
+    "id": 898,
+    "name": "plantain",
+    "tags": [ "Savory" ],
+    "description": "プランテイン, 調理用バナナ, 料理バナナ"
+  },
+  {
+    "id": 899,
+    "name": "plum",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "プラム, すもも, 李, プルーン"
+  },
+  {
+    "id": 900,
+    "name": "poke_bowl",
+    "tags": [ "Savory" ],
+    "description": "ポケボウル, ポキ丼, ハワイ風海鮮丼"
+  },
+  {
+    "id": 901,
+    "name": "poke_bowl_salmon",
+    "tags": [ "Savory" ],
+    "description": "サーモンポキ丼, 鮭のポケボウル"
+  },
+  {
+    "id": 902,
+    "name": "polenta_portion",
+    "tags": [ "Savory" ],
+    "description": "ポレンタ, とうもろこし粥, イタリアの付け合わせ"
+  },
+  {
+    "id": 903,
+    "name": "pomegranate",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ザクロ, 石榴, ざくろ"
+  },
+  {
+    "id": 904,
+    "name": "pomegranate_arils",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ザクロの実, ザクロの粒"
+  },
+  {
+    "id": 905,
+    "name": "pomegranate_seed",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ザクロの種"
+  },
+  {
+    "id": 906,
+    "name": "pomelo",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ポメロ, 文旦, ボンタン, ザボン"
+  },
+  {
+    "id": 907,
+    "name": "popping_boba",
+    "tags": [ "Sweet" ],
+    "description": "ポッピングボバ, コーティングジュース, 弾けるタピオカ"
+  },
+  {
+    "id": 908,
+    "name": "poppy_seeds",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "ポピーシード, ケシの実"
+  },
+  {
+    "id": 909,
+    "name": "pork_cutlet_curry",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "カツカレー, とんかつカレー, 豚カツカレー"
+  },
+  {
+    "id": 910,
+    "name": "pork_ginger",
+    "tags": [ "Savory" ],
+    "description": "豚の生姜焼き, 豚生姜焼き, ポークジンジャー"
+  },
+  {
+    "id": 911,
+    "name": "potato",
+    "tags": [ "Savory" ],
+    "description": "じゃがいも, ポテト, 馬鈴薯"
+  },
+  {
+    "id": 912,
+    "name": "potato_salad",
+    "tags": [ "Savory" ],
+    "description": "ポテトサラダ, ポテサラ, マッシュポテトサラダ"
+  },
+  {
+    "id": 913,
+    "name": "poutine",
+    "tags": [ "Savory" ],
+    "description": "プーティン, カナダ風フライドポテト, チーズとグレイビーのポテト"
+  },
+  {
+    "id": 914,
+    "name": "poutine_bowl",
+    "tags": [ "Savory" ],
+    "description": "プーティンボウル"
+  },
+  {
+    "id": 915,
+    "name": "powdered_sugar",
+    "tags": [ "Sweet" ],
+    "description": "粉砂糖, パウダーシュガー, アイシングシュガー"
+  },
+  {
+    "id": 916,
+    "name": "praline_chocolate",
+    "tags": [ "Sweet" ],
+    "description": "プラリネ, ナッツ入りチョコレート, ベルギーチョコ"
+  },
+  {
+    "id": 917,
+    "name": "pretzel",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "プレッツェル, ドイツの結び目パン, 塩パン"
+  },
+  {
+    "id": 918,
+    "name": "pretzel_knot",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "プレッツェルの結び目, プレッツェル(小)"
+  },
+  {
+    "id": 919,
+    "name": "pretzel_piece",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "砕いたプレッツェル"
+  },
+  {
+    "id": 920,
+    "name": "prickly_pear",
+    "tags": [ "Fruit" ],
+    "description": "サボテンの実, トゥナ, ウチワサボテンの実"
+  },
+  {
+    "id": 921,
+    "name": "profiterole",
+    "tags": [ "Sweet" ],
+    "description": "プロフィットロール, プチシュークリーム, チョコがけシュー"
+  },
+  {
+    "id": 922,
+    "name": "profiterole_cream",
+    "tags": [ "Sweet" ],
+    "description": "クリーム入りプロフィットロール"
+  },
+  {
+    "id": 923,
+    "name": "prosciutto_rosette",
+    "tags": [ "Savory" ],
+    "description": "プロシュート, 生ハムの花, イタリアン生ハム"
+  },
+  {
+    "id": 924,
+    "name": "prunes",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "プルーン, 乾燥プラム, ドライプラム"
+  },
+  {
+    "id": 925,
+    "name": "pulled_sugar_ribbon",
+    "tags": [ "Sweet" ],
+    "description": "飴細工のリボン, シュガーリボン"
+  },
+  {
+    "id": 926,
+    "name": "pumpernickel_slice",
+    "tags": [ "Savory" ],
+    "description": "プンパーニッケル, ドイツの黒パン, ライ麦パンスライス"
+  },
+  {
+    "id": 927,
+    "name": "pumpkin",
+    "tags": [ "Savory" ],
+    "description": "かぼちゃ, カボチャ, 南瓜, パンプキン"
+  },
+  {
+    "id": 928,
+    "name": "pumpkin_seed",
+    "tags": [ "Savory" ],
+    "description": "かぼちゃの種, パンプキンシード, ペピータ"
+  },
+  {
+    "id": 929,
+    "name": "pumpkin_soup",
+    "tags": [ "Savory" ],
+    "description": "かぼちゃスープ, パンプキンスープ, ポタージュ"
+  },
+  {
+    "id": 930,
+    "name": "pupusa",
+    "tags": [ "Savory" ],
+    "description": "ププサ, エルサルバドルのパンケーキ, チーズ入りコーンパン"
+  },
+  {
+    "id": 931,
+    "name": "pão_de_queijo",
+    "tags": [ "Savory" ],
+    "description": "ポンデケージョ, ブラジルのチーズパン, もちもちチーズパン"
+  },
+  {
+    "id": 932,
+    "name": "quesadilla",
+    "tags": [ "Savory" ],
+    "description": "ケサディーヤ, メキシカンチーズサンド, トルティーヤのチーズ焼き"
+  },
+  {
+    "id": 933,
+    "name": "quesadilla_slice",
+    "tags": [ "Savory" ],
+    "description": "カットケサディーヤ"
+  },
+  {
+    "id": 934,
+    "name": "quiche",
+    "tags": [ "Savory" ],
+    "description": "キッシュ, 卵とクリームのタルト, フランスの惣菜タルト"
+  },
+  {
+    "id": 935,
+    "name": "quiche_lorraine",
+    "tags": [ "Savory" ],
+    "description": "キッシュ・ロレーヌ, ベーコンとチーズのキッシュ"
+  },
+  {
+    "id": 936,
+    "name": "quince",
+    "tags": [ "Fruit" ],
+    "description": "マルメロ, セイヨウカリン, クインス"
+  },
+  {
+    "id": 937,
+    "name": "quinoa",
+    "tags": [ "Savory" ],
+    "description": "キヌア, スーパーフード, 南米の雑穀"
+  },
+  {
+    "id": 938,
+    "name": "radicchio",
+    "tags": [ "Savory" ],
+    "description": "トレビス, ラディッキオ, 赤チコリー"
+  },
+  {
+    "id": 939,
+    "name": "radish",
+    "tags": [ "Savory" ],
+    "description": "ラディッシュ, 二十日大根, 赤い大根"
+  },
+  {
+    "id": 940,
+    "name": "rafute",
+    "tags": [ "Savory" ],
+    "description": "ラフテー, 沖縄風豚の角煮, 豚の角煮"
+  },
+  {
+    "id": 941,
+    "name": "rainbow_sprinkles",
+    "tags": [ "Sweet" ],
+    "description": "カラースプレー, レインボースプリンクル, チョコスプレー"
+  },
+  {
+    "id": 942,
+    "name": "raisins",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "レーズン, 干しぶどう, ドライグレープ"
+  },
+  {
+    "id": 943,
+    "name": "rambutan",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ランブータン, 毛むくじゃらのライチ, 東南アジアの果物"
+  },
+  {
+    "id": 944,
+    "name": "ramen_bowl",
+    "tags": [ "Savory" ],
+    "description": "ラーメン, らーめん, 中華そば"
+  },
+  {
+    "id": 945,
+    "name": "rare_cheesecake",
+    "tags": [ "Sweet" ],
+    "description": "レアチーズケーキ, 焼かないチーズケーキ, 生チーズケーキ"
+  },
+  {
+    "id": 946,
+    "name": "rasgulla",
+    "tags": [ "Sweet" ],
+    "description": "ラスグッラ, インドのシロップ漬けチーズ, 白いスポンジ菓子"
+  },
+  {
+    "id": 947,
+    "name": "rasgulla_ball",
+    "tags": [ "Sweet" ],
+    "description": "ラスグッラ(1個)"
+  },
+  {
+    "id": 948,
+    "name": "rasgulla_bowl",
+    "tags": [ "Sweet" ],
+    "description": "ラスグッラボウル"
+  },
+  {
+    "id": 949,
+    "name": "raspberry",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "ラズベリー, 木苺, フランボワーズ"
+  },
+  {
+    "id": 950,
+    "name": "raspberry_coulis",
+    "tags": [ "Sweet", "Fruit" ],
+    "description": "ラズベリーソース, クーリ, ベリーソース"
+  },
+  {
+    "id": 951,
+    "name": "ratatouille",
+    "tags": [ "Savory" ],
+    "description": "ラタトゥイユ, 夏野菜の煮込み, フランス料理"
+  },
+  {
+    "id": 952,
+    "name": "ratatouille_portion",
+    "tags": [ "Savory" ],
+    "description": "ラタトゥイユ(1人前)"
+  },
+  {
+    "id": 953,
+    "name": "ravioli",
+    "tags": [ "Savory" ],
+    "description": "ラビオリ, 詰め物パスタ, イタリアの餃子"
+  },
+  {
+    "id": 954,
+    "name": "ravioli_al_burro_e_salvia",
+    "tags": [ "Savory" ],
+    "description": "ラビオリのセージバターソース"
+  },
+  {
+    "id": 955,
+    "name": "red_apple",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "赤りんご, リンゴ, 林檎, アップル"
+  },
+  {
+    "id": 956,
+    "name": "red_currant",
+    "tags": [ "Fruit", "Sweet" ],
+    "description": "レッドカラント, 赤すぐり, フサスグリ"
+  },
+  {
+    "id": 957,
+    "name": "red_curry_bowl",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "レッドカレー, ゲーンペッ, タイカレー"
+  },
+  {
+    "id": 958,
+    "name": "red_velvet_cake",
+    "tags": [ "Sweet" ],
+    "description": "レッドベルベットケーキ, 赤いココアケーキ, アメリカのケーキ"
+  },
+  {
+    "id": 959,
+    "name": "red_velvet_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットレッドベルベットケーキ"
+  },
+  {
+    "id": 960,
+    "name": "rendang",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ルンダン, 牛肉のココナッツ煮込み, インドネシア料理, 世界一美味しい料理"
+  },
+  {
+    "id": 961,
+    "name": "rendang_beef",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ルンダンビーフ, スパイシー角煮"
+  },
+  {
+    "id": 962,
+    "name": "rendang_portion",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "ルンダン(1人前)"
+  },
+  {
+    "id": 963,
+    "name": "reuben_sandwich",
+    "tags": [ "Savory" ],
+    "description": "ルーベンサンド, パストラミサンド, アメリカのホットサンド"
+  },
+  {
+    "id": 964,
+    "name": "rhubarb_stalk",
+    "tags": [ "Fruit", "Savory" ],
+    "description": "ルバーブ, ダイオウ, 赤い茎の野菜"
+  },
+  {
+    "id": 965,
+    "name": "rice",
+    "tags": [ "Savory" ],
+    "description": "ご飯, 白米, ライス, お米"
+  },
+  {
+    "id": 966,
+    "name": "ricotta_scoop",
+    "tags": [ "Savory", "Sweet" ],
+    "description": "リコッタチーズ, フレッシュチーズ, ホエイチーズ"
+  },
+  {
+    "id": 967,
+    "name": "rigatoni",
+    "tags": [ "Savory" ],
+    "description": "リガトーニ, 筋入りショートパスタ, 太いマカロニ"
+  },
+  {
+    "id": 968,
+    "name": "rillettes_in_jar",
+    "tags": [ "Savory" ],
+    "description": "リエット, 豚肉のペースト, フランスの保存食"
+  },
+  {
+    "id": 969,
+    "name": "risotto",
+    "tags": [ "Savory" ],
+    "description": "リゾット, イタリア風雑炊, 米料理"
+  },
+  {
+    "id": 970,
+    "name": "risotto_ai_funghi",
+    "tags": [ "Savory" ],
+    "description": "きのこのリゾット, フンギリゾット"
+  },
+  {
+    "id": 971,
+    "name": "risotto_alla_milanese",
+    "tags": [ "Savory" ],
+    "description": "ミラノ風リゾット, サフランリゾット, 黄色いリゾット"
+  },
+  {
+    "id": 972,
+    "name": "risotto_al_nero_di_seppia",
+    "tags": [ "Savory" ],
+    "description": "イカスミリゾット, 黒いリゾット"
+  },
+  {
+    "id": 973,
+    "name": "risotto_portion",
+    "tags": [ "Savory" ],
+    "description": "リゾット(1人前)"
+  },
+  {
+    "id": 974,
+    "name": "roast_beef",
+    "tags": [ "Savory" ],
+    "description": "ローストビーフ, 牛肉のオーブン焼き, イギリス料理"
+  },
+  {
+    "id": 975,
+    "name": "romanesco_broccoli",
+    "tags": [ "Savory" ],
+    "description": "ロマネスコ, サンゴ礁ブロッコリー, フラクタル野菜"
+  },
+  {
+    "id": 976,
+    "name": "root_beer_float",
+    "tags": [ "Sweet" ],
+    "description": "ルートビアフロート, A&Wフロート, アイスクリームソーダ"
+  },
+  {
+    "id": 977,
+    "name": "roquefort_crumble",
+    "tags": [ "Savory" ],
+    "description": "ロックフォール, ブルーチーズ, フランスの青カビチーズ"
+  },
+  {
+    "id": 978,
+    "name": "rose_apple",
+    "tags": [ "Fruit" ],
+    "description": "レンブ, ローズアップル, ジャワフトモモ"
+  },
+  {
+    "id": 979,
+    "name": "roti_canai",
+    "tags": [ "Savory" ],
+    "description": "ロティチャナイ, マレーシアの平焼きパン, インド風クレープ"
+  },
+  {
+    "id": 980,
+    "name": "roti_canai_plate",
+    "tags": [ "Savory" ],
+    "description": "ロティチャナイプレート"
+  },
+  {
+    "id": 981,
+    "name": "royal_icing_flower",
+    "tags": [ "Sweet" ],
+    "description": "アイシングフラワー, 砂糖の花飾り, ロイヤルアイシング"
+  },
+  {
+    "id": 982,
+    "name": "ruby_chocolate_callet",
+    "tags": [ "Sweet" ],
+    "description": "ルビーチョコレート, 第4のチョコレート, ピンクのチョコ"
+  },
+  {
+    "id": 983,
+    "name": "rutabaga",
+    "tags": [ "Savory" ],
+    "description": "ルタバガ, スウェーデンカブ, カブハボタン"
+  },
+  {
+    "id": 984,
+    "name": "rye_bread",
+    "tags": [ "Savory" ],
+    "description": "ライ麦パン, 黒パン, ドイツパン"
+  },
+  {
+    "id": 985,
+    "name": "rye_bread_slice",
+    "tags": [ "Savory" ],
+    "description": "スライスライ麦パン, ライ麦パン(1切れ)"
+  },
+  {
+    "id": 986,
+    "name": "s-mores",
+    "tags": [ "Sweet" ],
+    "description": "スモア, 焼きマシュマロとチョコのクラッカー挟み, キャンプスイーツ"
+  },
+  {
+    "id": 987,
+    "name": "saba_no_miso-ni",
+    "tags": [ "Savory" ],
+    "description": "サバの味噌煮, さばみそ, 鯖の味噌煮"
+  },
+  {
+    "id": 988,
+    "name": "sachertorte",
+    "tags": [ "Sweet" ],
+    "description": "ザッハトルテ, オーストリアのチョコケーキ, ウィーン銘菓"
+  },
+  {
+    "id": 989,
+    "name": "sachertorte_slice",
+    "tags": [ "Sweet" ],
+    "description": "カットザッハトルテ, ザッハトルテ(1切れ)"
+  },
+  {
+    "id": 990,
+    "name": "saffron_threads",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "サフラン, 世界一高価なスパイス, 赤いスパイス"
+  },
+  {
+    "id": 991,
+    "name": "saint-honore_cake",
+    "tags": [ "Sweet" ],
+    "description": "サントノーレ, シュークリームの王冠ケーキ, フランス伝統菓子"
+  },
+  {
+    "id": 992,
+    "name": "sakura-mochi",
+    "tags": [ "Sweet" ],
+    "description": "桜餅, さくらもち, 春の和菓子"
+  },
+  {
+    "id": 993,
+    "name": "sakura_ebi",
+    "tags": [ "Savory" ],
+    "description": "桜えび, サクラエビ, 乾燥エビ"
+  },
+  {
+    "id": 994,
+    "name": "salak",
+    "tags": [ "Fruit" ],
+    "description": "サラク, スネークフルーツ, 蛇皮果"
+  },
+  {
+    "id": 995,
+    "name": "salami_slice",
+    "tags": [ "Savory" ],
+    "description": "サラミ, ドライソーセージ, イタリアンサラミ"
+  },
+  {
+    "id": 996,
+    "name": "salmon_roe_on_spoon",
+    "tags": [ "Savory", "Luxury" ],
+    "description": "スプーンにのったイクラ, イクラの一口"
+  },
+  {
+    "id": 997,
+    "name": "salsa_roja",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "サルサロハ, 赤いサルサソース, メキシコのトマトソース"
+  },
+  {
+    "id": 998,
+    "name": "salsa_verde",
+    "tags": [ "Savory", "Spicy" ],
+    "description": "サルサベルデ, 緑のサルサソース, トマティージョソース"
+  },
+  {
+    "id": 999,
+    "name": "saltfish_fritter",
+    "tags": [ "Savory" ],
+    "description": "塩鱈のフリッター, バカラオのフライ, アクラ"
+  },
+  {
+    "id": 1000,
+    "name": "salt_crystals",
+    "tags": [ "Savory" ],
+    "description": "岩塩, 粗塩, 結晶塩"
+  },
+  {
+    "id": 1001,
+    "name": "olive_oil",
+    "tags": [ "Savory" ],
+    "description": "オリーブオイル, オリーブ油"
+  }
+]
